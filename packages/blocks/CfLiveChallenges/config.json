@@ -1,0 +1,65 @@
+{
+  "id": "CfLiveChallenges",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/CfLiveChallenges",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfLiveChallenges"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfLiveChallenges": {
+        "file": "CfLiveChallenges.tsx",
+        "extends": "CfLiveChallengesController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfLiveChallengesController",
+            "path": "./CfLiveChallengesController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfLiveChallengesController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfLiveChallenges"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfLiveChallenges": {
+        "file": "CfLiveChallenges.web.tsx",
+        "extends": "CfLiveChallengesController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfLiveChallengesController",
+            "path": "./CfLiveChallengesController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfLiveChallengesController"
+          }
+        ]
+      }
+    }
+  }
+}

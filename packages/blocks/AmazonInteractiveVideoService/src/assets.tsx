@@ -1,0 +1,63 @@
+export const person = require("../assets/person.png");
+export const messanger = require("../assets/Messanger.png");
+export const avatar = require("../assets/avatar.png");
+export const video = require("../assets/video.png");
+export const cancelIcon = require("../assets/cancel-icon.png");
+export const gift = require("../assets/gift.png");
+export const empty = require("../assets/Invite.png");
+export const rose = require("../assets/rose.png");
+export const flip = require("../assets/flip.png");
+export const settingsIcon = require('../assets/settingsIcon.png');
+export const home = require('../assets/home.png');
+export const crossicon = require("../assets/crossicon.png");
+export const emoji = require("../assets/emoji.png");
+export const fire = require("../assets/fire-fill.png");
+export const smile = require("../assets/smile.png");
+export const magicpen = require("../assets/magic-pen.png");
+export const edit = require("../assets/edit.png");
+export const shape = require("../assets/Shape.png");
+export const guest = require("../assets/guest.png");
+export const interactive = require("../assets/interactive.png");
+export const more = require("../assets/more.png");
+export const bluebackground = require("../assets/blue-background.png");
+export const dancing = require("../assets/dancing.png");
+export const Bitmap = require("../assets/Bitmap.png");
+export const lines = require("../assets/lines.png");
+export const plus = require("../assets/plus.png");
+export const match = require("../assets/match.png");
+export const speaker = require("../assets/speaker.png");
+export const colorpaper = require("../assets/colorpaper.png");
+export const rightarrow = require("../assets/right-arrow.png");
+export const bin = require("../assets/delete.png");
+export const matchdisable = require("../assets/disable-match.png");
+export const shapedisable = require("../assets/disable-shape.png");
+export const SwitchOff = require("../assets/SwitchOff.png");
+export const SwitchOn = require("../assets/SwitchOn.png");
+export const shutDown = require("../assets/shut-down.png");
+export const redheart = require("../assets/redheart.png");
+export const share = require("../assets/share.png");
+export const sendIcon = require("../assets/SendIcon.png");
+export const imgGolavi = require("../assets/golaviLogo.png");
+export const left = require("../assets/left.png");
+export const profile = require("../assets/Profile.png");
+export const imgCheckedCircle = require("../assets/checkedcircle.png");
+export const imgUnCheckedCircle = require("../assets/yellowbordercircle.png");
+export const imgLeftArrow = require("../../global_assets/leftArrow.png");
+export const heartbeat = require("../assets/heart.json");
+export const heartburst = require("../assets/heartBurst.json");
+export const hands = require("../assets/hands.png");
+export const tresser = require("../assets/tresser.png");
+export const Comments = require("../assets/Comments.png");
+export const Mutemivro = require("../assets/Mutemivro.png");
+export const About = require("../assets/About.png");
+export const Goody = require("../assets/Goody.png");
+export const Mirror = require("../assets/Mirror.png");
+export const disble = require("../assets/Disble.png");
+export const micOn = require("../assets/micOn.png");
+export const imgRightArrow = require("../../global_assets/rightArrow.png");
+export const userFill = require("../assets/user-fill.png");
+
+
+
+
+

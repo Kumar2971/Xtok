@@ -1,0 +1,65 @@
+{
+  "id": "AnimationsAndTransition3",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AnimationsAndTransition3",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AnimationsAndTransition3"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AnimationsAndTransition3": {
+        "file": "AnimationsAndTransition3.tsx",
+        "extends": "AnimationsAndTransition3Controller",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AnimationsAndTransition3Controller",
+            "path": "./AnimationsAndTransition3Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AnimationsAndTransition3Controller"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AnimationsAndTransition3"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AnimationsAndTransition3": {
+        "file": "AnimationsAndTransition3.web.tsx",
+        "extends": "AnimationsAndTransition3Controller",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AnimationsAndTransition3Controller",
+            "path": "./AnimationsAndTransition3Controller"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AnimationsAndTransition3Controller"
+          }
+        ]
+      }
+    }
+  }
+}

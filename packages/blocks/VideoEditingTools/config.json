@@ -1,0 +1,65 @@
+{
+  "id": "VideoEditingTools",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/VideoEditingTools",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoEditingTools"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoEditingTools": {
+        "file": "VideoEditingTools.tsx",
+        "extends": "VideoEditingToolsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoEditingToolsController",
+            "path": "./VideoEditingToolsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoEditingToolsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoEditingTools"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoEditingTools": {
+        "file": "VideoEditingTools.web.tsx",
+        "extends": "VideoEditingToolsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoEditingToolsController",
+            "path": "./VideoEditingToolsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoEditingToolsController"
+          }
+        ]
+      }
+    }
+  }
+}

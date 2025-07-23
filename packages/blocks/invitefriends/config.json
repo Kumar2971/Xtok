@@ -1,0 +1,65 @@
+{
+  "id": "invitefriends",
+  "verion": "0.0.1",
+  "status": "approved",
+  "path": "./packages/blocks/invitefriends",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Invitefriends"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Invitefriends": {
+        "file": "Invitefriends.tsx",
+        "extends": "InvitefriendsController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "InvitefriendsController",
+            "path": "./InvitefriendsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./InvitefriendsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Invitefriends"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "InvitefriendsBlock": {
+        "file": "InvitefriendsBlock.tsx",
+        "extends": "InvitefriendsController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "InvitefriendsController",
+            "path": "./InvitefriendsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./InvitefriendsController"
+          }
+        ]
+      }
+    }
+  }
+}

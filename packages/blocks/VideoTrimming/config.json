@@ -1,0 +1,69 @@
+{
+  "id": "VideoTrimming",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/VideoTrimming",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoTrimming"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoTrimming": {
+        "file": "VideoTrimming.tsx",
+        "extends": "VideoTrimmingController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoTrimmingController",
+            "path": "./VideoTrimmingController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoTrimmingController"
+          },
+          {
+            "value": "VideoCoverModal",
+            "path": "./components/VideoCoverModal"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoTrimming"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoTrimming": {
+        "file": "VideoTrimming.web.tsx",
+        "extends": "VideoTrimmingController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoTrimmingController",
+            "path": "./VideoTrimmingController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoTrimmingController"
+          }
+        ]
+      }
+    }
+  }
+}

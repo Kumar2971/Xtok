@@ -1,0 +1,4967 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    false,
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value=""
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    false,
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value=""
+          />
+          <View />
+          <View />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderColor": "#FFC925",
+                  "borderWidth": 1,
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={false}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 2`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="email-address"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Message.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.email_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputEmail"
+            value="test@gmail.com"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="Test@123"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/tickfilled.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 3`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="email-address"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Message.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.email_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputEmail"
+            value="test@gmail.com"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/tickfilled.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 4`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="email-address"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Message.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.email_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputEmail"
+            value="test@gmail.com"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 5`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="email-address"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Message.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.email_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputEmail"
+            value="test@gmail.com"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Email Log In 6`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="email-address"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Message.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.email_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputEmail"
+            value="test@gmail.com"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    false,
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value=""
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    false,
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value=""
+          />
+          <View />
+          <View />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                  "borderColor": "#FFC925",
+                  "borderWidth": 1,
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={false}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 2`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="Test@123"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/tickfilled.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 3`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={true}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/tickfilled.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 4`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={false}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 5`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={false}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 6`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={false}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`Mobile Phone Account Log In User navigates to Mobile Log In 7`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <ScrollView
+    keyboardShouldPersistTaps="always"
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      testID="Background"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "height": 30,
+              "width": 30,
+            }
+          }
+          testID="btnGoBack"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/Arrow-Left.png",
+              }
+            }
+            style={
+              Object {
+                "height": "100%",
+                "resizeMode": "contain",
+                "width": "100%",
+              }
+            }
+          />
+        </ForwardRef>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginBottom": 47.5,
+              "marginTop": 79,
+            }
+          }
+        >
+          <Image
+            resizeMode="contain"
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/mobile-account-login/assets/golaviLogo.png",
+              }
+            }
+            style={
+              Object {
+                "height": 192.5,
+                "width": 192.5,
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 42.5,
+                "fontWeight": "bold",
+                "marginTop": 31.5,
+              }
+            }
+          >
+            [missing "en.loginInto" translation]
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "padding": 0,
+            }
+          }
+        >
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            keyboardType="phone-pad"
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Frame-3.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.mobile_android\\" translation]"
+            placeholderTextColor="grey"
+            testID="txtInputPhoneNumber"
+            value="9823792738"
+          />
+          <View />
+          <mockConstructor
+            containerStyle={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "transparent",
+                "borderBottomColor": "transparent",
+                "borderTopColor": "transparent",
+                "height": 102.5,
+                "justifyContent": "flex-start",
+                "padding": 0,
+              }
+            }
+            inputContainerStyle={
+              Object {
+                "backgroundColor": "rgbargb(238,238,238)",
+                "borderBottomColor": "transparent",
+                "borderRadius": 19,
+                "height": 79,
+                "marginHorizontal": 0,
+                "marginTop": 16,
+                "width": "100%",
+              }
+            }
+            inputStyle={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 12,
+                  "marginLeft": 19,
+                },
+                false,
+              ]
+            }
+            leftIcon={
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/Lock.png",
+                  }
+                }
+                style={
+                  Array [
+                    Object {
+                      "height": 31.5,
+                      "marginLeft": 19,
+                      "resizeMode": "contain",
+                      "tintColor": "#9E9E9E",
+                      "width": 38.5,
+                    },
+                    false,
+                    Object {
+                      "tintColor": "#000000",
+                    },
+                  ]
+                }
+              />
+            }
+            onBlur={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            placeholder="[missing \\"en.password_android\\" translation]"
+            placeholderTextColor="grey"
+            rightIcon={[Function]}
+            secureTextEntry={false}
+            testID="txtInputPassword"
+            value="passWord1!"
+          />
+          <View />
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "red",
+                  "fontSize": 19,
+                  "marginLeft": 23,
+                },
+                false,
+              ]
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "margin": 19,
+                "marginLeft": 38.5,
+              }
+            }
+          >
+            <ForwardRef
+              onPress={[Function]}
+              style={
+                Object {
+                  "height": 38.5,
+                  "width": 38.5,
+                }
+              }
+              testID="btnRememberMe"
+            >
+              <Image
+                source={
+                  Object {
+                    "testUri": "../../../packages/blocks/mobile-account-login/assets/yellowbordercircle.png",
+                  }
+                }
+                style={
+                  Object {
+                    "height": "100%",
+                    "resizeMode": "contain",
+                    "width": "100%",
+                  }
+                }
+              />
+            </ForwardRef>
+            <Text
+              style={
+                Object {
+                  "color": "#000000",
+                  "fontSize": 23,
+                  "fontWeight": "bold",
+                  "marginLeft": 19,
+                }
+              }
+            >
+              [missing "en.rememberMe" translation]
+            </Text>
+          </View>
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "borderRadius": 96,
+                  "height": 79,
+                },
+                Object {
+                  "backgroundColor": "#FFC925",
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "alignSelf": "center",
+                "marginVertical": 16,
+                "width": "93%",
+              }
+            }
+            loading={true}
+            onPress={[Function]}
+            testID="buttonSignin"
+            title="[missing \\"en.signIn\\" translation]"
+            titleStyle={
+              Object {
+                "color": "#000000",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontSize": 25,
+                "fontWeight": "bold",
+                "marginTop": 8,
+                "textAlign": "center",
+              }
+            }
+          >
+            [missing "en.forgot_password_click" translation]
+            <Text
+              onPress={[Function]}
+              style={
+                Object {
+                  "color": "#FFC925",
+                }
+              }
+              testID="btnForgotPassword"
+            >
+              [missing "en.click" translation]
+            </Text>
+          </Text>
+        </View>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontSize": 19,
+              "fontWeight": "bold",
+              "marginTop": 47.5,
+              "textAlign": "center",
+            }
+          }
+        >
+          [missing "en.newhereText" translation]
+          <Text
+            onPress={[Function]}
+            style={
+              Object {
+                "color": "#FFC925",
+              }
+            }
+            testID="btnSignup"
+          >
+            [missing "en.Sign_Up" translation]
+          </Text>
+        </Text>
+      </View>
+    </TouchableWithoutFeedback>
+  </ScrollView>
+</ForwardRef(SafeAreaView)>
+`;

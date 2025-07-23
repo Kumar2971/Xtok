@@ -1,0 +1,65 @@
+{
+  "id": "Hashtags",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/Hashtags",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Hashtags"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Hashtags": {
+        "file": "Hashtags.tsx",
+        "extends": "HashtagsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "HashtagsController",
+            "path": "./HashtagsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./HashtagsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Hashtags"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Hashtags": {
+        "file": "Hashtags.web.tsx",
+        "extends": "HashtagsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "HashtagsController",
+            "path": "./HashtagsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./HashtagsController"
+          }
+        ]
+      }
+    }
+  }
+}

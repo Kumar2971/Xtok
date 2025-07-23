@@ -1,0 +1,65 @@
+{
+  "id": "PhotoFilters",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/PhotoFilters",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PhotoFilters"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PhotoFilters": {
+        "file": "PhotoFilters.tsx",
+        "extends": "PhotoFiltersController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PhotoFiltersController",
+            "path": "./PhotoFiltersController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PhotoFiltersController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PhotoFilters"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PhotoFilters": {
+        "file": "PhotoFilters.web.tsx",
+        "extends": "PhotoFiltersController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PhotoFiltersController",
+            "path": "./PhotoFiltersController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PhotoFiltersController"
+          }
+        ]
+      }
+    }
+  }
+}

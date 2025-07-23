@@ -1,0 +1,2587 @@
+{
+  "data": [
+    {
+      "id": "136",
+      "type": "post",
+      "attributes": {
+        "id": 136,
+        "name": "Route",
+        "description": null,
+        "body": "Route",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-04-27T09:32:46.692Z",
+        "updated_at": "2023-04-27T09:32:59.840Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 108,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/PXXuHUXrJTglD4162786-1CC7-4825-8A0C-B305C4809D54.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 136,
+              "created_at": "2023-04-27T09:32:46.697Z",
+              "updated_at": "2023-04-27T09:32:46.953Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/e0ef0vv1dyvu6wx0so86edz0cp9c"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/e0ef0vv1dyvu6wx0so86edz0cp9c"
+          ]
+        },
+        "post_likes_count": 8,
+        "post_comment_count": 123,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/uweij8sp4ztvjizu39d8rhwg5y24",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "109",
+      "type": "post",
+      "attributes": {
+        "id": 109,
+        "name": "Air Solution",
+        "description": null,
+        "body": "Air Solution",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 204,
+        "created_at": "2023-04-07T04:38:39.263Z",
+        "updated_at": "2023-04-07T04:38:39.263Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 80,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/hlxdgbA02y7lAir%20Solution.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 109,
+              "created_at": "2023-04-07T04:38:39.269Z",
+              "updated_at": "2023-04-07T04:38:42.308Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/j67dzqy1tguxfjewvujbdy8kwgnz"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/j67dzqy1tguxfjewvujbdy8kwgnz"
+          ]
+        },
+        "post_likes_count": 8,
+        "post_comment_count": 14,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/28kkcyt5q93b67mrvj4f3859jbg7",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "93",
+      "type": "post",
+      "attributes": {
+        "id": 93,
+        "name": "Sky in the air",
+        "description": null,
+        "body": "Sky in the air",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 189,
+        "created_at": "2023-04-04T13:53:17.344Z",
+        "updated_at": "2023-04-04T13:53:17.344Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Unlisted",
+        "comment_setting": "Hold potentially inappropiate comments for review",
+        "audience_setting": "Restrict my video to viewers over 18",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 64,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Czlw9ZxIRiPuA986330F-E977-434D-B124-90A31E8E37EB.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 93,
+              "created_at": "2023-04-04T13:53:17.346Z",
+              "updated_at": "2023-04-04T13:53:17.523Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rzvd5i6iuhz7dlu0i8gvz626mh6g"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rzvd5i6iuhz7dlu0i8gvz626mh6g"
+          ]
+        },
+        "post_likes_count": 11,
+        "post_comment_count": 3,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/lahpsp9aqe1j48xu0gux5u03o1dv",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "133",
+      "type": "post",
+      "attributes": {
+        "id": 133,
+        "name": "Dog is walking\n",
+        "description": null,
+        "body": "Dog is walking\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-04-26T08:43:06.480Z",
+        "updated_at": "2023-04-26T08:43:19.442Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 105,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/OyXE8EcHz0Dsvideo_1682342895086.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 133,
+              "created_at": "2023-04-26T08:43:06.484Z",
+              "updated_at": "2023-04-26T08:43:06.699Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/24xuuhen9bdgxwz1xqjk23za1a36"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/24xuuhen9bdgxwz1xqjk23za1a36"
+          ]
+        },
+        "post_likes_count": 7,
+        "post_comment_count": 3,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/uxiitxa3rbzvza2mub7qifyo2rqc",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "166",
+      "type": "post",
+      "attributes": {
+        "id": 166,
+        "name": "شلون كلام",
+        "description": null,
+        "body": "شلون كلام",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 224,
+        "created_at": "2023-05-09T07:31:43.752Z",
+        "updated_at": "2023-05-09T07:31:57.565Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "Restrict my video to viewers over 18",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 138,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/fZ6FnivM0EO4137E4225-E08D-497D-8172-34C37A79D4F8.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 166,
+              "created_at": "2023-05-09T07:31:43.756Z",
+              "updated_at": "2023-05-09T07:31:44.023Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/enprgl67wu93x5rh4qsvfdoob3gx"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/enprgl67wu93x5rh4qsvfdoob3gx"
+          ]
+        },
+        "post_likes_count": 4,
+        "post_comment_count": 5,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/5afjrda0fd74qfn6dybtged3drcz",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/506gp119wnsykqhypwm3gw0g0n3g",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "129",
+      "type": "post",
+      "attributes": {
+        "id": 129,
+        "name": "Sets ",
+        "description": null,
+        "body": "Sets ",
+        "location": null,
+        "is_like_by_current_user": true,
+        "account_id": 219,
+        "created_at": "2023-04-25T12:17:10.997Z",
+        "updated_at": "2023-04-25T12:17:10.997Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 101,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/eLri4zL6gaTtInstagram_2fe8d09e-61ba-47af-ba17-3167aa43ce7b.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 129,
+              "created_at": "2023-04-25T12:17:10.999Z",
+              "updated_at": "2023-04-25T12:17:11.639Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/zh7jh3igban16cnf7goy11oleunc"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/zh7jh3igban16cnf7goy11oleunc"
+          ]
+        },
+        "post_likes_count": 9,
+        "post_comment_count": 2,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/8wlqil3hwn8c123cbdbm9ujbz7fx",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "128",
+      "type": "post",
+      "attributes": {
+        "id": 128,
+        "name": "કેન્ડલ",
+        "description": null,
+        "body": "કેન્ડલ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 216,
+        "created_at": "2023-04-25T09:00:47.871Z",
+        "updated_at": "2023-04-25T09:01:00.597Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 100,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/DjZi7eMGaHHx5A9876B9-4202-485C-94DE-04F1A25CE657.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 128,
+              "created_at": "2023-04-25T09:00:47.876Z",
+              "updated_at": "2023-04-25T09:00:48.164Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/d3k96xi1p457fjzrfok4h15msz9t"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/d3k96xi1p457fjzrfok4h15msz9t"
+          ]
+        },
+        "post_likes_count": 7,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/esyclxau0dhgdlfnst66wla6glit",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/hwj3w8appwd00xnv55q5opbnjk5j",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "75",
+      "type": "post",
+      "attributes": {
+        "id": 75,
+        "name": "Test build\n\n\n",
+        "description": null,
+        "body": "Test build\n\n\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 180,
+        "created_at": "2023-04-03T08:51:24.983Z",
+        "updated_at": "2023-04-03T08:51:24.983Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 46,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/8XxcFZ9v9rmn561030af-5000-4da3-8b6f-215b91deaefe.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 75,
+              "created_at": "2023-04-03T08:51:24.988Z",
+              "updated_at": "2023-04-03T08:51:25.330Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/68rxwt1xebhgvw7evprakfkj0dsy"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/68rxwt1xebhgvw7evprakfkj0dsy"
+          ]
+        },
+        "post_likes_count": 4,
+        "post_comment_count": 1,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "140",
+      "type": "post",
+      "attributes": {
+        "id": 140,
+        "name": "Testing",
+        "description": null,
+        "body": "Testing",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 203,
+        "created_at": "2023-05-03T05:45:48.979Z",
+        "updated_at": "2023-05-03T05:45:55.150Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 112,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/XRP6KerBIp1VA71EBA4D-4D3D-4277-8F15-80EAEB421D69.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 140,
+              "created_at": "2023-05-03T05:45:48.983Z",
+              "updated_at": "2023-05-03T05:45:49.640Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mib399u2gaxnofgaa9dy6786dg5u"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mib399u2gaxnofgaa9dy6786dg5u"
+          ]
+        },
+        "post_likes_count": 3,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/r4w6j9r8scsbkg2sbp8zgjovk923",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vnxq7gyf2hdrhes0m7aceu9zwtcp",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "169",
+      "type": "post",
+      "attributes": {
+        "id": 169,
+        "name": "Creating Own Video",
+        "description": null,
+        "body": "Creating Own Video",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 235,
+        "created_at": "2023-05-09T10:53:11.459Z",
+        "updated_at": "2023-05-09T10:53:11.459Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 141,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/wcVq0eyZxXryWhite%20city.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 169,
+              "created_at": "2023-05-09T10:53:11.463Z",
+              "updated_at": "2023-05-09T10:53:12.388Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/lpwubyle2mhi8e5cca04kkaeaue8"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/lpwubyle2mhi8e5cca04kkaeaue8"
+          ]
+        },
+        "post_likes_count": 3,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/btc7ujvspifrj4ad9z7nhb5dhekt",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "105",
+      "type": "post",
+      "attributes": {
+        "id": 105,
+        "name": "Thats my Cat",
+        "description": null,
+        "body": "Thats my Cat",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 200,
+        "created_at": "2023-04-06T15:38:32.655Z",
+        "updated_at": "2023-04-06T15:38:32.655Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 76,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/vofLAyVgIISY678C189F-E443-4A5B-ACE4-B93FA07A0A2F.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 105,
+              "created_at": "2023-04-06T15:38:32.659Z",
+              "updated_at": "2023-04-06T15:38:33.286Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9xeqvj06910v6xg0qpy94a7c1c7q"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9xeqvj06910v6xg0qpy94a7c1c7q"
+          ]
+        },
+        "post_likes_count": 4,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/wrbkd9s7n20golh8uj0altv6leo3",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "139",
+      "type": "post",
+      "attributes": {
+        "id": 139,
+        "name": "Vghhho\n",
+        "description": null,
+        "body": "Vghhho\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-05-01T12:01:54.296Z",
+        "updated_at": "2023-05-01T12:01:55.654Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 111,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/uWGAj8rck1f4032E696F-C787-4E67-B362-0C184C1E8D7B.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 139,
+              "created_at": "2023-05-01T12:01:54.300Z",
+              "updated_at": "2023-05-01T12:01:54.600Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/twnpw5ctv14jsar6pgk6dmkbgu4a"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/twnpw5ctv14jsar6pgk6dmkbgu4a"
+          ]
+        },
+        "post_likes_count": 4,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/93l7ygslm8bei9tf12hq3nqak361",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "172",
+      "type": "post",
+      "attributes": {
+        "id": 172,
+        "name": "Record status ",
+        "description": null,
+        "body": "Record status ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 238,
+        "created_at": "2023-05-10T09:43:43.173Z",
+        "updated_at": "2023-05-10T09:43:53.206Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 144,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/GdQ4GTkSSPRs5702c663-f803-484d-80c7-f6fa37a641e7.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 172,
+              "created_at": "2023-05-10T09:43:43.182Z",
+              "updated_at": "2023-05-10T09:43:43.519Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/hwscb5fsmmyr03m12eg5y3ikblqv"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/hwscb5fsmmyr03m12eg5y3ikblqv"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mbru5250u7tgmdwnnb7xiat82ysb",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/186yu8ajsjemdrn8bl0tj4ystizl",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "134",
+      "type": "post",
+      "attributes": {
+        "id": 134,
+        "name": "Laptop Keyboard is Here @Guru777 ",
+        "description": null,
+        "body": "Laptop Keyboard is Here @Guru777 ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 223,
+        "created_at": "2023-04-26T17:57:03.090Z",
+        "updated_at": "2023-04-26T17:57:09.880Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 106,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Q2rTYoXsOrWJF4A5EC29-3361-471C-ABE3-631F47369277.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 134,
+              "created_at": "2023-04-26T17:57:03.092Z",
+              "updated_at": "2023-04-26T17:57:03.421Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qarhmh89s4lscdo6lbpajjgiwmzh"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qarhmh89s4lscdo6lbpajjgiwmzh"
+          ]
+        },
+        "post_likes_count": 3,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/me094zfkc9enhy0vgrc6m0wujv9d",
+        "video_post_thumbnail": null,
+        "taggings": [{ "account_id": 177, "user_name": "Guru777" }],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/zxrm7wnlek1kbsapbcodbjp9xejr",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "174",
+      "type": "post",
+      "attributes": {
+        "id": 174,
+        "name": "Good work ",
+        "description": null,
+        "body": "Good work ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 238,
+        "created_at": "2023-05-10T10:02:15.459Z",
+        "updated_at": "2023-05-10T10:02:15.459Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 146,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/VcNb8sPxo2WCinstagram_1683700306424.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 174,
+              "created_at": "2023-05-10T10:02:15.462Z",
+              "updated_at": "2023-05-10T10:02:16.281Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/yv4a453xl3gpj4m3089ub6vcc26w"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/yv4a453xl3gpj4m3089ub6vcc26w"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mbru5250u7tgmdwnnb7xiat82ysb",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "161",
+      "type": "post",
+      "attributes": {
+        "id": 161,
+        "name": "Test\n",
+        "description": null,
+        "body": "Test\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 203,
+        "created_at": "2023-05-08T07:04:37.642Z",
+        "updated_at": "2023-05-08T07:04:40.766Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 133,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/1MyGPZK8x8kwDD89101E-9D06-4CDA-BF3F-059F19F3CD62.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 161,
+              "created_at": "2023-05-08T07:04:37.654Z",
+              "updated_at": "2023-05-08T07:04:38.556Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rtn11af9vzaabohj82d4nrg0wny8"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rtn11af9vzaabohj82d4nrg0wny8"
+          ]
+        },
+        "post_likes_count": 2,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/r4w6j9r8scsbkg2sbp8zgjovk923",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/scxkecq4j9o8br66rpancbaq809w",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "171",
+      "type": "post",
+      "attributes": {
+        "id": 171,
+        "name": "This is a video\n",
+        "description": null,
+        "body": "This is a video\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 229,
+        "created_at": "2023-05-10T07:34:33.897Z",
+        "updated_at": "2023-05-10T07:34:49.159Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 143,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/uSct0h6XB8bM3ac54f05-6315-42ff-b175-edbf5a8c8780.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 171,
+              "created_at": "2023-05-10T07:34:33.900Z",
+              "updated_at": "2023-05-10T07:34:34.392Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ry3ozrw6nyych63nzqks46m8hivz"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ry3ozrw6nyych63nzqks46m8hivz"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/uvyn167i01xec4xpl88okr39fnze",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ha7wlqtaycisjxpebh9sufi6j6vs",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "176",
+      "type": "post",
+      "attributes": {
+        "id": 176,
+        "name": "Home 2",
+        "description": null,
+        "body": "Home 2",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 237,
+        "created_at": "2023-05-10T11:59:33.416Z",
+        "updated_at": "2023-05-10T11:59:47.842Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 148,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/lEsNKGaYp1si45ec421c-a269-4612-9383-7c71dea88cd7.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 176,
+              "created_at": "2023-05-10T11:59:33.419Z",
+              "updated_at": "2023-05-10T11:59:33.765Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qekxejheb3h5mi1r1jy3lcezo3qp"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qekxejheb3h5mi1r1jy3lcezo3qp"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/bdbclxfwo38s3z6bhk8ykzpijmva",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/acm3al446nftdrenq588ex5dm5m8",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "147",
+      "type": "post",
+      "attributes": {
+        "id": 147,
+        "name": "Post2",
+        "description": null,
+        "body": "Post2",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:36:27.801Z",
+        "updated_at": "2023-05-04T10:36:27.801Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 119,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/ceEdOHrL9FfWpexels-rodnae-productions-8438341-1080x1920-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 147,
+              "created_at": "2023-05-04T10:36:27.803Z",
+              "updated_at": "2023-05-04T10:36:29.225Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/nub4vt9yrlbftv0wfgsuafgx6z33"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/nub4vt9yrlbftv0wfgsuafgx6z33"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "175",
+      "type": "post",
+      "attributes": {
+        "id": 175,
+        "name": "Home sweet home ",
+        "description": null,
+        "body": "Home sweet home ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 237,
+        "created_at": "2023-05-10T11:58:23.620Z",
+        "updated_at": "2023-05-10T11:58:32.257Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 147,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/taa2uznVQQN8f9355fbf-646a-4355-8b30-54aa3bc47309.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 175,
+              "created_at": "2023-05-10T11:58:23.625Z",
+              "updated_at": "2023-05-10T11:58:24.063Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/y54dacdp28rbsz958eiggh6itpyi"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/y54dacdp28rbsz958eiggh6itpyi"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/bdbclxfwo38s3z6bhk8ykzpijmva",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/xgic5fz0cw43rovee5y6jdrv9rpz",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "173",
+      "type": "post",
+      "attributes": {
+        "id": 173,
+        "name": "Home work ",
+        "description": null,
+        "body": "Home work ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 238,
+        "created_at": "2023-05-10T09:56:18.300Z",
+        "updated_at": "2023-05-10T09:56:28.128Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 145,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/jNhpwsZcPLRv12f7313e-8b6e-4c96-87b5-ce758f241c80.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 173,
+              "created_at": "2023-05-10T09:56:18.304Z",
+              "updated_at": "2023-05-10T09:56:18.616Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9ytdonpsglxgecx6ws0caaj56yi1"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9ytdonpsglxgecx6ws0caaj56yi1"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 1,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mbru5250u7tgmdwnnb7xiat82ysb",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/pp2d16cojpsm9kauobo66by6u422",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "146",
+      "type": "post",
+      "attributes": {
+        "id": 146,
+        "name": "Post1",
+        "description": null,
+        "body": "Post1",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:35:53.013Z",
+        "updated_at": "2023-05-04T10:35:53.013Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 118,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/8SnZ4aLBioAHpexels-yaroslav-shuraev-4434286-1080x1920-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 146,
+              "created_at": "2023-05-04T10:35:53.017Z",
+              "updated_at": "2023-05-04T10:35:54.072Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ln8u00dndt76b8hw2y9mdde1wrj2"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ln8u00dndt76b8hw2y9mdde1wrj2"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "154",
+      "type": "post",
+      "attributes": {
+        "id": 154,
+        "name": "Post9",
+        "description": null,
+        "body": "Post9",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:42:49.283Z",
+        "updated_at": "2023-05-04T10:42:49.283Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 126,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/v6L2q0f0WHO7pexels-aric-shelby-3173403-3840x2160-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 154,
+              "created_at": "2023-05-04T10:42:49.285Z",
+              "updated_at": "2023-05-04T10:42:54.385Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/df6geawi6e6cizyzks6duznvd3if"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/df6geawi6e6cizyzks6duznvd3if"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "138",
+      "type": "post",
+      "attributes": {
+        "id": 138,
+        "name": "Solar One",
+        "description": null,
+        "body": "Solar One",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-01T04:27:16.354Z",
+        "updated_at": "2023-05-01T04:27:21.668Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 110,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/LKuVxG5ze9BRA96DE209-A433-416D-84AC-7CEBB4B10266.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 138,
+              "created_at": "2023-05-01T04:27:16.356Z",
+              "updated_at": "2023-05-01T04:27:16.573Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ncntccy2qdkzfjece7z36yrukf23"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ncntccy2qdkzfjece7z36yrukf23"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/yne5fg2ug5h29lyksr6r3n6e3opi",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "135",
+      "type": "post",
+      "attributes": {
+        "id": 135,
+        "name": "Like this\n",
+        "description": null,
+        "body": "Like this\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-04-27T09:32:20.841Z",
+        "updated_at": "2023-04-27T09:32:25.654Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 107,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/u87qDe6JKqLE2ECB798D-4CB1-495E-AB5A-9DC385DEE5BB.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 135,
+              "created_at": "2023-04-27T09:32:20.844Z",
+              "updated_at": "2023-04-27T09:32:21.176Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/wqahxgipezzk3z4v8ac6o66tpzt6"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/wqahxgipezzk3z4v8ac6o66tpzt6"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/lz5vcob2p5fvec81l1ur2gw7b3qq",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "137",
+      "type": "post",
+      "attributes": {
+        "id": 137,
+        "name": "Scrolling ",
+        "description": null,
+        "body": "Scrolling ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-04-27T09:34:14.437Z",
+        "updated_at": "2023-04-27T09:34:46.878Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 109,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/QrJC0iJ6yGHr3816BD15-5108-45A3-BC38-7F9BBBFE97A6.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 137,
+              "created_at": "2023-04-27T09:34:14.440Z",
+              "updated_at": "2023-04-27T09:34:15.018Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/pccyuus4r5ixzyi0ijjpbq2ggqsp"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/pccyuus4r5ixzyi0ijjpbq2ggqsp"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/z536ugrokoct1y5f52ulq1oqkdf8",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "148",
+      "type": "post",
+      "attributes": {
+        "id": 148,
+        "name": "Post3",
+        "description": null,
+        "body": "Post3",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:37:08.719Z",
+        "updated_at": "2023-05-04T10:37:08.719Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 120,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/LARiDdY9gn3Bpexels-taryn-elliott-8526536-1080x1920-25fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 148,
+              "created_at": "2023-05-04T10:37:08.721Z",
+              "updated_at": "2023-05-04T10:37:10.189Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qbad5zn65xlxe1amnj4xm754dr85"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qbad5zn65xlxe1amnj4xm754dr85"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "159",
+      "type": "post",
+      "attributes": {
+        "id": 159,
+        "name": "46",
+        "description": null,
+        "body": "46",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-04T11:19:47.485Z",
+        "updated_at": "2023-05-04T11:19:47.485Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 131,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Mxks7FzR3PA4pexels-soumith-soman-6263156.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 159,
+              "created_at": "2023-05-04T11:19:47.489Z",
+              "updated_at": "2023-05-04T11:19:51.206Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/cra8nyqv49uy9wmeafsgznvqfwnt"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/cra8nyqv49uy9wmeafsgznvqfwnt"
+          ]
+        },
+        "post_likes_count": 1,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "186",
+      "type": "post",
+      "attributes": {
+        "id": 186,
+        "name": "19 MB 1080p",
+        "description": null,
+        "body": "19 MB 1080p",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:31:08.114Z",
+        "updated_at": "2023-05-13T12:31:08.114Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 158,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/FGl1vZxiVTB3Flames.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 186,
+              "created_at": "2023-05-13T12:31:08.119Z",
+              "updated_at": "2023-05-13T12:31:09.581Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rwtnevl72wfzpmdbgizqj1geozxl"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/rwtnevl72wfzpmdbgizqj1geozxl"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "189",
+      "type": "post",
+      "attributes": {
+        "id": 189,
+        "name": "10 mb",
+        "description": null,
+        "body": "10 mb",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:45:40.637Z",
+        "updated_at": "2023-05-13T12:45:40.637Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 161,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/xQyyXCXGEWf3Beautiful.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 189,
+              "created_at": "2023-05-13T12:45:40.639Z",
+              "updated_at": "2023-05-13T12:45:42.044Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/m3an6hato8s2je1952tv5nszj4te"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/m3an6hato8s2je1952tv5nszj4te"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "188",
+      "type": "post",
+      "attributes": {
+        "id": 188,
+        "name": "20mb gcl",
+        "description": null,
+        "body": "20mb gcl",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:43:45.250Z",
+        "updated_at": "2023-05-13T12:43:45.250Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 160,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/7Pf4jlB7sDEjGlass%20Candle.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 188,
+              "created_at": "2023-05-13T12:43:45.258Z",
+              "updated_at": "2023-05-13T12:43:47.905Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2j4uv2yj50801pipa1m2lfq4m19a"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2j4uv2yj50801pipa1m2lfq4m19a"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "152",
+      "type": "post",
+      "attributes": {
+        "id": 152,
+        "name": "Post7",
+        "description": null,
+        "body": "Post7",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:41:01.516Z",
+        "updated_at": "2023-05-04T10:41:01.516Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 124,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/ts53cxH2a5qMpexels-anna-medvedeva-4448895-1080x1920-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 152,
+              "created_at": "2023-05-04T10:41:01.521Z",
+              "updated_at": "2023-05-04T10:41:02.497Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/q6016myd0nuj9ff39lktpocujg3e"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/q6016myd0nuj9ff39lktpocujg3e"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "181",
+      "type": "post",
+      "attributes": {
+        "id": 181,
+        "name": "GwC ",
+        "description": null,
+        "body": "GwC ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-05-13T11:44:08.577Z",
+        "updated_at": "2023-05-13T11:44:08.577Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 153,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/62oRavin0m8LGood%20Work.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 181,
+              "created_at": "2023-05-13T11:44:08.581Z",
+              "updated_at": "2023-05-13T11:44:09.270Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/tefai29d585rc0mzu5kc8vlkiv5u"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/tefai29d585rc0mzu5kc8vlkiv5u"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "153",
+      "type": "post",
+      "attributes": {
+        "id": 153,
+        "name": "Post8",
+        "description": null,
+        "body": "Post8",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:41:53.578Z",
+        "updated_at": "2023-05-04T10:41:59.792Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 125,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Q1yAd12lrkD3cute_wild_deer_grazing_in_nature_6892279-1.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 153,
+              "created_at": "2023-05-04T10:41:53.581Z",
+              "updated_at": "2023-05-04T10:41:53.791Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/w72arpowbs780w6i8ivtwb2s3cof"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/w72arpowbs780w6i8ivtwb2s3cof"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/zq5dldevxzn4deasjb1rngacms8w",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "190",
+      "type": "post",
+      "attributes": {
+        "id": 190,
+        "name": "Q10",
+        "description": null,
+        "body": "Q10",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:46:59.497Z",
+        "updated_at": "2023-05-13T12:46:59.497Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 162,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/JgxX1geep8GbBeautiful.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 190,
+              "created_at": "2023-05-13T12:46:59.501Z",
+              "updated_at": "2023-05-13T12:47:00.261Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/k81oqkliak922pf37wmmglvjgcac"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/k81oqkliak922pf37wmmglvjgcac"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "162",
+      "type": "post",
+      "attributes": {
+        "id": 162,
+        "name": "Test video",
+        "description": null,
+        "body": "Test video",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 198,
+        "created_at": "2023-05-08T13:57:24.908Z",
+        "updated_at": "2023-05-08T13:57:35.043Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 134,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/JmI5YtkFtLTBaae3522e-80e5-43a9-bd49-9f514fdcbdcd.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 162,
+              "created_at": "2023-05-08T13:57:24.910Z",
+              "updated_at": "2023-05-08T13:57:25.281Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/m14d1rme2qm6i9oh73ky7xw6w7w0"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/m14d1rme2qm6i9oh73ky7xw6w7w0"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9sr453x54vj8ptr0n7r1721bv6tr",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/adguzmx7xk12tne2jwiqp42ue9i2",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "183",
+      "type": "post",
+      "attributes": {
+        "id": 183,
+        "name": "Testing MOV",
+        "description": null,
+        "body": "Testing MOV",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-05-13T11:48:58.684Z",
+        "updated_at": "2023-05-13T11:49:04.437Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 155,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/8Afhfmx0n62nTesting.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 183,
+              "created_at": "2023-05-13T11:48:58.688Z",
+              "updated_at": "2023-05-13T11:48:59.046Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/unb8j441vwytjvtzjepkpgr98qvj"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/unb8j441vwytjvtzjepkpgr98qvj"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/jt0dpnkwickl5dns1unyo57uq7x5",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "150",
+      "type": "post",
+      "attributes": {
+        "id": 150,
+        "name": "Post5",
+        "description": null,
+        "body": "Post5",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:39:16.326Z",
+        "updated_at": "2023-05-04T10:39:16.326Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 122,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/8sF6iPyOESaHpexels-innorecords-photovideos-1777892-1280x720-25fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 150,
+              "created_at": "2023-05-04T10:39:16.330Z",
+              "updated_at": "2023-05-04T10:39:17.883Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qfxq0dl56izkcuxozx2ah3q14fi2"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/qfxq0dl56izkcuxozx2ah3q14fi2"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "187",
+      "type": "post",
+      "attributes": {
+        "id": 187,
+        "name": "20mb 720p",
+        "description": null,
+        "body": "20mb 720p",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:42:37.976Z",
+        "updated_at": "2023-05-13T12:42:37.976Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 159,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/rJex97lxMYKjSpider_web.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 187,
+              "created_at": "2023-05-13T12:42:37.979Z",
+              "updated_at": "2023-05-13T12:42:39.372Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2lj1dgol04c2ea8ew0169csoefdp"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2lj1dgol04c2ea8ew0169csoefdp"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "170",
+      "type": "post",
+      "attributes": {
+        "id": 170,
+        "name": "Rosywon create video\n",
+        "description": null,
+        "body": "Rosywon create video\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-05-09T11:05:21.707Z",
+        "updated_at": "2023-05-09T11:05:31.033Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 142,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/QLETILHoyevY7ba8398f-c633-4470-abe1-33a3581249e7.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 170,
+              "created_at": "2023-05-09T11:05:21.711Z",
+              "updated_at": "2023-05-09T11:05:22.031Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mwjkwykku6t2bmdyqywpyfjqyqmq"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/mwjkwykku6t2bmdyqywpyfjqyqmq"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/38c51mcc2d506t7favbbd48or6sx",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "163",
+      "type": "post",
+      "attributes": {
+        "id": 163,
+        "name": "Golavi",
+        "description": null,
+        "body": "Golavi",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 198,
+        "created_at": "2023-05-08T14:09:20.994Z",
+        "updated_at": "2023-05-08T14:09:21.582Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Private",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [
+            {
+              "id": 135,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/BXMofKqhFcIiChobi1683180081510.jpg",
+              "media_type": "Image",
+              "audio_url": "",
+              "post_id": 163,
+              "created_at": "2023-05-08T14:09:20.998Z",
+              "updated_at": "2023-05-08T14:09:20.998Z",
+              "video_thumnail": null
+            }
+          ],
+          "videos": [],
+          "thumnails": []
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9sr453x54vj8ptr0n7r1721bv6tr",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vhmlsdkcjj8y02s4g3mjfu39v7pl",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "168",
+      "type": "post",
+      "attributes": {
+        "id": 168,
+        "name": "Hey ",
+        "description": null,
+        "body": "Hey ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 227,
+        "created_at": "2023-05-09T07:32:50.655Z",
+        "updated_at": "2023-05-09T07:33:14.379Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 140,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Xn3hjVP1LDyw3A6F9359-C12D-4BE3-B03E-8FC9905D3037.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 168,
+              "created_at": "2023-05-09T07:32:50.658Z",
+              "updated_at": "2023-05-09T07:32:51.058Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/a2vj4jvcgmka53ipy7esyxlyvxlu"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/a2vj4jvcgmka53ipy7esyxlyvxlu"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/jahu6o0ikip5612hhq5gr8y707ma",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/dbhcdkzozfk3868mjnyfjspcg7sd",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "191",
+      "type": "post",
+      "attributes": {
+        "id": 191,
+        "name": "31 mb",
+        "description": null,
+        "body": "31 mb",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:49:39.584Z",
+        "updated_at": "2023-05-13T12:49:39.584Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 163,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/CrYilufMXeBOLight.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 191,
+              "created_at": "2023-05-13T12:49:39.588Z",
+              "updated_at": "2023-05-13T12:49:42.595Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/0hni84f49ffpq01z1n6gajuwjbjt"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/0hni84f49ffpq01z1n6gajuwjbjt"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "160",
+      "type": "post",
+      "attributes": {
+        "id": 160,
+        "name": "Post2",
+        "description": null,
+        "body": "Post2",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 232,
+        "created_at": "2023-05-04T11:21:21.322Z",
+        "updated_at": "2023-05-04T11:21:21.322Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 132,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/Hw2xhG8Xa4G8pexels-tunnel-motions-2759477-3840x2160-60fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 160,
+              "created_at": "2023-05-04T11:21:21.327Z",
+              "updated_at": "2023-05-04T11:21:27.302Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/bk4jn5ewj2wv8n8fv51qkp2r0vey"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/bk4jn5ewj2wv8n8fv51qkp2r0vey"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "141",
+      "type": "post",
+      "attributes": {
+        "id": 141,
+        "name": "Test\n",
+        "description": null,
+        "body": "Test\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 203,
+        "created_at": "2023-05-04T08:00:43.550Z",
+        "updated_at": "2023-05-04T08:00:49.132Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 113,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/QqGkKEhgQhXeB09BED7A-D109-4EBB-9203-BD1625FE4DE6.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 141,
+              "created_at": "2023-05-04T08:00:43.551Z",
+              "updated_at": "2023-05-04T08:00:43.824Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/yk0piikulesedrvqremdjolppe4g"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/yk0piikulesedrvqremdjolppe4g"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/r4w6j9r8scsbkg2sbp8zgjovk923",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/0p8qqhe0duo7a4590ni4umi7r41q",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "184",
+      "type": "post",
+      "attributes": {
+        "id": 184,
+        "name": "10.53 MB",
+        "description": null,
+        "body": "10.53 MB",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:25:58.217Z",
+        "updated_at": "2023-05-13T12:25:58.217Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 156,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/hHaVb31yeyWXPurple%20Flower.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 184,
+              "created_at": "2023-05-13T12:25:58.221Z",
+              "updated_at": "2023-05-13T12:25:59.342Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/xf89xkd59vzuucxj4737b7xpv5h1"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/xf89xkd59vzuucxj4737b7xpv5h1"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "167",
+      "type": "post",
+      "attributes": {
+        "id": 167,
+        "name": "Test\n",
+        "description": null,
+        "body": "Test\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 203,
+        "created_at": "2023-05-09T07:32:16.254Z",
+        "updated_at": "2023-05-09T07:32:36.361Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 139,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/DtEXuauWGdb0CB53AFFB-9C9E-46B9-BF3B-95DD3A9435D4.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 167,
+              "created_at": "2023-05-09T07:32:16.258Z",
+              "updated_at": "2023-05-09T07:32:16.539Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/unjv1wbaxkiqkn9aho4eyov95sit"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/unjv1wbaxkiqkn9aho4eyov95sit"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/r4w6j9r8scsbkg2sbp8zgjovk923",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/m3dmdfwspxrnlwi2lb6czhbodmur",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "158",
+      "type": "post",
+      "attributes": {
+        "id": 158,
+        "name": "Post2",
+        "description": null,
+        "body": "Post2",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 232,
+        "created_at": "2023-05-04T11:19:35.729Z",
+        "updated_at": "2023-05-04T11:19:37.459Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 130,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/MMiqSAnQnKbgfalling_motion_of_paper_present_boxes_6892286.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 158,
+              "created_at": "2023-05-04T11:19:35.732Z",
+              "updated_at": "2023-05-04T11:19:35.926Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/345p9am9ckz6c9ghf4ehqidz9kxj"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/345p9am9ckz6c9ghf4ehqidz9kxj"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/d0qb5qsaugtwbg2kvl703fljjddv",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "177",
+      "type": "post",
+      "attributes": {
+        "id": 177,
+        "name": "Test new 11/05 ",
+        "description": null,
+        "body": "Test new 11/05 ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 222,
+        "created_at": "2023-05-11T13:24:11.214Z",
+        "updated_at": "2023-05-11T13:24:16.121Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 149,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/QBh9oHAtU0kZec3855aa-2d60-417a-9554-db83cf636f10.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 177,
+              "created_at": "2023-05-11T13:24:11.217Z",
+              "updated_at": "2023-05-11T13:24:11.616Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2jtvbk98e7lehvuvdexfzvn84fk7"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/2jtvbk98e7lehvuvdexfzvn84fk7"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/vkvfevcl68sx4amxdw9ha9dydoq2",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/kj00nog30o5gr7sv7jar0aaapyax",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "155",
+      "type": "post",
+      "attributes": {
+        "id": 155,
+        "name": "Post10",
+        "description": null,
+        "body": "Post10",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:44:31.551Z",
+        "updated_at": "2023-05-04T10:44:31.551Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 127,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/6ML5xzQ2XYdSpexels-pavel-danilyuk-4812205-1080x1920-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 155,
+              "created_at": "2023-05-04T10:44:31.554Z",
+              "updated_at": "2023-05-04T10:44:32.618Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/67s0bzagy0so5n6u1zsq06xs3pst"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/67s0bzagy0so5n6u1zsq06xs3pst"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "185",
+      "type": "post",
+      "attributes": {
+        "id": 185,
+        "name": "20 MB ",
+        "description": null,
+        "body": "20 MB ",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 164,
+        "created_at": "2023-05-13T12:28:08.196Z",
+        "updated_at": "2023-05-13T12:28:08.196Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 157,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/cFusuYCfX3JMGlass%20Candle.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 185,
+              "created_at": "2023-05-13T12:28:08.200Z",
+              "updated_at": "2023-05-13T12:28:10.697Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/hsoj1n7qxezupw88p1d67eerj099"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/hsoj1n7qxezupw88p1d67eerj099"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/10c1ipnk6gejmacc4hh18v2lkomg",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "178",
+      "type": "post",
+      "attributes": {
+        "id": 178,
+        "name": "Paul's video\n",
+        "description": null,
+        "body": "Paul's video\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 229,
+        "created_at": "2023-05-11T13:48:33.432Z",
+        "updated_at": "2023-05-11T13:48:42.986Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 150,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/2CQCKW2eopbmfc9885cb-e6c2-4fc0-ae40-d8bea59b416a.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 178,
+              "created_at": "2023-05-11T13:48:33.435Z",
+              "updated_at": "2023-05-11T13:48:33.818Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/cyazy739zkz5fw6pstflrjoa553c"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/cyazy739zkz5fw6pstflrjoa553c"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/uvyn167i01xec4xpl88okr39fnze",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/n07snwoczug57g59yx15bhl4v8mi",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "165",
+      "type": "post",
+      "attributes": {
+        "id": 165,
+        "name": "Test you\n",
+        "description": null,
+        "body": "Test you\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 203,
+        "created_at": "2023-05-09T07:00:17.559Z",
+        "updated_at": "2023-05-09T07:01:12.951Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Disable comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 137,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/1jJzAqkdxY7c61D9A63D-A876-4E99-8038-D14F9C40435B.mov",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 165,
+              "created_at": "2023-05-09T07:00:17.560Z",
+              "updated_at": "2023-05-09T07:00:18.476Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ljwfauhr7ivevetv78z86c7p7j9r"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ljwfauhr7ivevetv78z86c7p7j9r"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/r4w6j9r8scsbkg2sbp8zgjovk923",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/aax9rh2ntpxwracfcv23gflrhbzm",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "149",
+      "type": "post",
+      "attributes": {
+        "id": 149,
+        "name": "Post4",
+        "description": null,
+        "body": "Post4",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:38:29.896Z",
+        "updated_at": "2023-05-04T10:38:29.896Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 121,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/ulWfVSuUu6i8pexels-yaroslav-shuraev-4434160-1080x1920-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 149,
+              "created_at": "2023-05-04T10:38:29.900Z",
+              "updated_at": "2023-05-04T10:38:30.630Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ngoo14mmckembceqiekyx24erch5"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/ngoo14mmckembceqiekyx24erch5"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "151",
+      "type": "post",
+      "attributes": {
+        "id": 151,
+        "name": "Post6",
+        "description": null,
+        "body": "Post6",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 230,
+        "created_at": "2023-05-04T10:40:04.054Z",
+        "updated_at": "2023-05-04T10:40:51.094Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 123,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/VCQo6Sg02ngvpexels-edouard-chassaigne-5085845-720x992-30fps.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 151,
+              "created_at": "2023-05-04T10:40:04.057Z",
+              "updated_at": "2023-05-04T10:40:04.475Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/l8dupc4vl33x0jn75wewr41y5l8y"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/l8dupc4vl33x0jn75wewr41y5l8y"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": null,
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/k2pjeugg7n41oo3c2cemaxx7ovn5",
+        "bookmarked": false
+      }
+    },
+    {
+      "id": "103",
+      "type": "post",
+      "attributes": {
+        "id": 103,
+        "name": "Was that an earthquake???\n",
+        "description": null,
+        "body": "Was that an earthquake???\n",
+        "location": null,
+        "is_like_by_current_user": false,
+        "account_id": 198,
+        "created_at": "2023-04-06T08:03:59.272Z",
+        "updated_at": "2023-04-06T08:03:59.272Z",
+        "tag_list": [],
+        "save_post_as": "create_post",
+        "visibility_setting": "Public",
+        "comment_setting": "Allow all Comments",
+        "audience_setting": "No restrictions to viewers",
+        "post_medias": {
+          "images": [],
+          "videos": [
+            {
+              "id": 74,
+              "media_url": "https://minio.b280316.dev.eastus.az.svc.builder.cafe/sbucket/uxMvLqCcYcShb637e70e-55bb-461f-ba20-a5b383f60901.mp4",
+              "media_type": "Video",
+              "audio_url": "",
+              "post_id": 103,
+              "created_at": "2023-04-06T08:03:59.276Z",
+              "updated_at": "2023-04-06T08:03:59.872Z",
+              "video_thumnail": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/pyske96mcqmf18a9qi60msr5qtc2"
+            }
+          ],
+          "thumnails": [
+            "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/pyske96mcqmf18a9qi60msr5qtc2"
+          ]
+        },
+        "post_likes_count": 0,
+        "post_comment_count": 0,
+        "photo": "https://minio.b255799.dev.eastus.az.svc.builder.ai/sbucket/9sr453x54vj8ptr0n7r1721bv6tr",
+        "video_post_thumbnail": null,
+        "taggings": [],
+        "notification": null,
+        "video_post": null,
+        "bookmarked": false
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "prev_page": null,
+      "current_page": 1,
+      "next_page": null,
+      "total_pages": 1,
+      "total_count": 54
+    }
+  }
+}

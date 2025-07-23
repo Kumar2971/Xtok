@@ -1,0 +1,1077 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostCreation User navigate to LiveStream 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "black",
+      "flex": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+        "flex": 1,
+        "flexDirection": "column",
+        "height": 1334,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderRadius": 20,
+            "flex": 1,
+            "overflow": "hidden",
+          },
+        ]
+      }
+    >
+      <[object Object]
+        apiKey="6643ee887bef3d767e7f35e8128eae9f1ce786fdece58e06b68440101fc7a2dbf4f0b684bf207dc5"
+        onEffectSwitched={[Function]}
+        onError={[Function]}
+        onInitialized={[Function]}
+        onScreenshotTaken={[Function]}
+        onVideoRecordingFinished={[Function]}
+        onVideoRecordingPrepared={[Function]}
+        onVideoRecordingStarted={[Function]}
+        position={[MockFunction]}
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+        testID="deepArId"
+        videoWarmup={false}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "black",
+            "flexDirection": "row",
+            "height": 108.69565217391305,
+            "justifyContent": "space-between",
+            "paddingLeft": 90.57971014492753,
+            "paddingRight": 90.57971014492753,
+            "width": "100%",
+            "zIndex": 1000,
+          },
+          Object {
+            "bottom": 0,
+          },
+        ]
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="90BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text90Id"
+        >
+          90s
+        </Text>
+        <MockEntypo
+          color="white"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="60BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text60Id"
+        >
+          60s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="30BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text30Id"
+        >
+          30s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="15BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text15Id"
+        >
+          15s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="LiveBtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="textLiveId"
+        >
+          Live
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "justifyContent": "flex-end",
+            "paddingBottom": 90.57971014492753,
+            "position": "absolute",
+            "width": 750,
+          },
+        ]
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "height": 40,
+            "marginLeft": 18.115942028985508,
+            "marginTop": 54.34782608695652,
+            "width": 40,
+          }
+        }
+        testID="goback"
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../packages/blocks/postcreation/assets/crossicon.png",
+            }
+          }
+          style={
+            Object {
+              "height": 30,
+              "resizeMode": "contain",
+              "width": 30,
+            }
+          }
+        />
+      </ForwardRef>
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "height": 889.3333333333334,
+            "paddingBottom": 40,
+            "paddingHorizontal": 20,
+            "width": 750,
+          }
+        }
+      >
+        <View
+          key="1"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={false}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId0"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/flip.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Flip
+            </Text>
+          </ForwardRef>
+        </View>
+        <View
+          key="2"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={false}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId1"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/timer.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Timer
+            </Text>
+          </ForwardRef>
+        </View>
+        <View
+          key="3"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={true}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId2"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/flash.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Flash
+            </Text>
+          </ForwardRef>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginBottom": 0,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "marginHorizontal": 10,
+                "paddingBottom": 50,
+              },
+              Object {
+                "height": 50,
+                "width": 50,
+              },
+            ]
+          }
+          testID="effectsBtn"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/effects.png",
+              }
+            }
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          activeOpacity={0.6}
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "paddingBottom": 50,
+            }
+          }
+          testID="playPuaseBtnID"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/main-icon.png",
+              }
+            }
+            style={
+              Object {
+                "height": 80,
+                "width": 80,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "paddingBottom": 50,
+            }
+          }
+          testID="captureImgBtn"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/gallery.png",
+              }
+            }
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+  <AlertModal
+    alertModal={
+      Object {
+        "alertMsg": "",
+        "headerText": "",
+        "openAlertModal": false,
+      }
+    }
+    btnTitle2="Ok"
+    onPress2={[Function]}
+  />
+</ForwardRef(SafeAreaView)>
+`;
+
+exports[`PostCreation User navigate to LiveStream with IOS 1`] = `
+<ForwardRef(SafeAreaView)
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": "black",
+      "flex": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+        "flex": 1,
+        "flexDirection": "column",
+        "height": 1334,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderRadius": 20,
+            "flex": 1,
+            "overflow": "hidden",
+          },
+        ]
+      }
+    >
+      <[object Object]
+        apiKey="6643ee887bef3d767e7f35e8128eae9f1ce786fdece58e06b68440101fc7a2dbf4f0b684bf207dc5"
+        onEffectSwitched={[Function]}
+        onError={[Function]}
+        onInitialized={[Function]}
+        onScreenshotTaken={[Function]}
+        onVideoRecordingFinished={[Function]}
+        onVideoRecordingPrepared={[Function]}
+        onVideoRecordingStarted={[Function]}
+        position={[MockFunction]}
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+        testID="deepArId"
+        videoWarmup={false}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "black",
+            "flexDirection": "row",
+            "height": 108.69565217391305,
+            "justifyContent": "space-between",
+            "paddingLeft": 90.57971014492753,
+            "paddingRight": 90.57971014492753,
+            "width": "100%",
+            "zIndex": 1000,
+          },
+          Object {
+            "bottom": 0,
+          },
+        ]
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="90BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text90Id"
+        >
+          90s
+        </Text>
+        <MockEntypo
+          color="white"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="60BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text60Id"
+        >
+          60s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="30BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text30Id"
+        >
+          30s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="15BtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="text15Id"
+        >
+          15s
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          }
+        }
+        testID="LiveBtnId"
+      >
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "fontSize": 21.73913043478261,
+            }
+          }
+          testID="textLiveId"
+        >
+          Live
+        </Text>
+        <MockEntypo
+          color="black"
+          name="dot-single"
+          size={12}
+        />
+      </ForwardRef>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "height": 1334,
+            "justifyContent": "flex-end",
+            "paddingBottom": 90.57971014492753,
+            "position": "absolute",
+            "width": 750,
+          },
+        ]
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "height": 40,
+            "marginLeft": 18.115942028985508,
+            "marginTop": 54.34782608695652,
+            "width": 40,
+          }
+        }
+        testID="goback"
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../packages/blocks/postcreation/assets/crossicon.png",
+            }
+          }
+          style={
+            Object {
+              "height": 30,
+              "resizeMode": "contain",
+              "width": 30,
+            }
+          }
+        />
+      </ForwardRef>
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "height": 889.3333333333334,
+            "paddingBottom": 40,
+            "paddingHorizontal": 20,
+            "width": 750,
+          }
+        }
+      >
+        <View
+          key="1"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={false}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId0"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/flip.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Flip
+            </Text>
+          </ForwardRef>
+        </View>
+        <View
+          key="2"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={false}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId1"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/timer.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Timer
+            </Text>
+          </ForwardRef>
+        </View>
+        <View
+          key="3"
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "paddingVertical": 10,
+            }
+          }
+          testID="onClick"
+        >
+          <ForwardRef
+            disabled={true}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "paddingHorizontal": 12,
+                },
+              ]
+            }
+            testID="reelsOptionBtnId2"
+          >
+            <Image
+              source={
+                Object {
+                  "testUri": "../../../packages/blocks/postcreation/assets/flash.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 40,
+                  "resizeMode": "contain",
+                  "width": 40,
+                }
+              }
+            />
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "white",
+                    "fontSize": 15,
+                  },
+                ]
+              }
+            >
+              Flash
+            </Text>
+          </ForwardRef>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginBottom": 0,
+          }
+        }
+      >
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+                "marginHorizontal": 10,
+                "paddingBottom": 50,
+              },
+              Object {
+                "height": 50,
+                "width": 50,
+              },
+            ]
+          }
+          testID="effectsBtn"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/effects.png",
+              }
+            }
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          activeOpacity={0.6}
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "paddingBottom": 50,
+            }
+          }
+          testID="playPuaseBtnID"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/main-icon.png",
+              }
+            }
+            style={
+              Object {
+                "height": 80,
+                "width": 80,
+              }
+            }
+          />
+        </ForwardRef>
+        <ForwardRef
+          onPress={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "justifyContent": "center",
+              "marginHorizontal": 10,
+              "paddingBottom": 50,
+            }
+          }
+          testID="captureImgBtn"
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../packages/blocks/postcreation/assets/gallery.png",
+              }
+            }
+            style={
+              Object {
+                "height": 50,
+                "width": 50,
+              }
+            }
+          />
+        </ForwardRef>
+      </View>
+    </View>
+  </View>
+  <AlertModal
+    alertModal={
+      Object {
+        "alertMsg": "",
+        "headerText": "",
+        "openAlertModal": false,
+      }
+    }
+    btnTitle2="Ok"
+    onPress2={[Function]}
+  />
+</ForwardRef(SafeAreaView)>
+`;

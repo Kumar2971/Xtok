@@ -1,0 +1,23 @@
+export const imgPasswordVisible = require("../../global_assets/ic_password_visible.png");
+export const imgPasswordInVisible = require("../../global_assets/ic_password_invisible.png");
+export const imgClose = require("../assets/Close.png");
+export const imgQuestion = require("../assets/question.png");
+export const imgMail = require("../assets/Message.png");
+export const imgPhone = require("../assets/Frame-3.png");
+export const imgGoogle = require("../assets/Frame-1.png");
+export const imgFb = require("../assets/Frame-2.png");
+export const imgApple = require("../assets/Frame.png");
+export const imgArrow = require("../assets/Arrow-Left.png");
+export const imgLock = require("../assets/Lock.png");
+export const imgHide = require("../assets/Hide.png");
+export const imgBorderCircle = require("../assets/yellowbordercircle.png");
+export const imgTickFiled = require("../assets/tickfilled.png");
+export const imgCircleWithTick = require("../assets/image.png");
+export const imgLogo = require("../../global_assets/logoImg.png");
+export const imgGolavi = require("../assets/golaviLogo.png");
+export const imgAppleGrey = require("../assets/apple_grey.png");
+export const imgGoogleGrey = require("../assets/google_grey.png");
+export const imgFbGrey = require("../assets/fb_grey.png");
+export const imgRightArrowFull = require("../../global_assets/RightArrowfull.png");
+export const cross = require("../../global_assets/cross.png");
+

@@ -1,0 +1,135 @@
+require_relative '../../../node_modules/react-native/scripts/react_native_pods'
+require_relative '../../../node_modules/@react-native-community/cli-platform-ios/native_modules'
+platform :ios, '14.0'
+
+
+target 'Xtok' do
+
+  # use_modular_headers!
+  config = use_native_modules!
+
+   use_react_native!(
+     :path => config[:reactNativePath],
+     # to enable hermes on iOS, change `false` to `true` and then install pods
+     :hermes_enabled => false
+   )
+   # Pods for Xtok
+   pod 'RNAppleAuthentication', :path => '../../../node_modules/@invertase/react-native-apple-authentication'
+   pod 'React', :path => '../../../node_modules/react-native/'
+
+   pod 'xtok-ffmpeg-kit-ios-https', :path => '../../../ffmpeg-kit-ios-https'
+
+  pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'FBSDKShareKit'
+  pod 'FBSDKPlacesKit'
+
+  pod 'GoogleSignIn', '~> 5.0.2'
+  # pod 'FirebaseCore', :modular_headers => true
+  # pod 'FirebaseCore'
+  # pod 'Firebase/Analytics'
+  # pod 'GoogleUtilities', :modular_headers => true
+  pod 'Firebase/Analytics'
+
+  permissions_path = '../../../node_modules/react-native-permissions/ios'
+  pod 'RNPermissions', :path => '../../../node_modules/react-native-permissions'
+  pod 'Permission-Calendars', :path => "#{permissions_path}/Calendars/Permission-Calendars.podspec"
+  pod 'Permission-Camera', :path => "#{permissions_path}/Camera/Permission-Camera.podspec"
+  pod 'Permission-LocationAlways', :path => "#{permissions_path}/LocationAlways/Permission-LocationAlways.podspec"
+  pod 'Permission-LocationWhenInUse', :path => "#{permissions_path}/LocationWhenInUse/Permission-LocationWhenInUse.podspec"
+  pod 'Permission-MediaLibrary', :path => "#{permissions_path}/MediaLibrary/Permission-MediaLibrary.podspec"
+  pod 'Permission-Microphone', :path => "#{permissions_path}/Microphone/Permission-Microphone.podspec"
+  pod 'Permission-Notifications', :path => "#{permissions_path}/Notifications/Permission-Notifications.podspec"
+  pod 'Permission-PhotoLibrary', :path => "#{permissions_path}/PhotoLibrary/Permission-PhotoLibrary.podspec"
+  pod 'react-native-sqlite-storage', :path => '../../../node_modules/react-native-sqlite-storage'
+
+#  pod 'react-native-google-maps', :path => '../../../node_modules/react-native-maps/react-native-google-maps.podspec'
+  pod 'GoogleMaps'  # Uncomment this line if you want to support GoogleMaps on iOS
+  pod 'Google-Maps-iOS-Utils' # Uncomment this line if you want to support GoogleMaps on iOS
+  pod 'RNImageCropPicker', :path => '../../../node_modules/react-native-image-crop-picker'
+  pod 'RNGestureHandler', :path => '../../../node_modules/react-native-gesture-handler'
+  pod 'react-native-geolocation-service', path: '../../../node_modules/react-native-geolocation-service'
+  pod 'ReactNativeIncallManager', :path => '../../../node_modules/@videosdk.live/react-native-incallmanager'
+  pod 'RNCAsyncStorage', :path => '../../../node_modules/@react-native-async-storage/async-storage'
+
+  pod 'rn-fetch-blob', :path => '../../../node_modules/rn-fetch-blob'
+
+
+  # pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
+  pod 'react-native-webrtc', :path => '../../../node_modules/@videosdk.live/react-native-webrtc'
+  pod 'react-native-deepar', :path => '../../blocks/react-native-deepar/react-native-deepar.podspec'
+  pod 'RNIap', :path => '../../../node_modules/react-native-iap'
+  pod 'AmazonIVSBroadcast/Stages'
+  pod 'SDWebImage', :modular_headers => true
+
+  target 'XtokTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+end
+
+post_install do |installer|
+  ## Fix for XCode 12.5
+  find_and_replace("../node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm",
+  "_initializeModules:(NSArray<id<RCTBridgeModule>> *)modules", "_initializeModules:(NSArray<Class> *)modules")
+  find_and_replace("../node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModuleManager.mm",
+  "RCTBridgeModuleNameForClass(module))", "RCTBridgeModuleNameForClass(Class(module)))")
+  find_and_replace("../node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModuleManager.mm",
+  "RCTBridgeModuleNameForClass(strongModule))", "RCTBridgeModuleNameForClass(Class(strongModule)))")
+  find_and_replace("../../../node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm",
+  "_initializeModules:(NSArray<id<RCTBridgeModule>> *)modules", "_initializeModules:(NSArray<Class> *)modules")
+  find_and_replace("../../../node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModuleManager.mm",
+  "RCTBridgeModuleNameForClass(module))", "RCTBridgeModuleNameForClass(Class(module)))")
+  find_and_replace("../../../node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModuleManager.mm",
+  "RCTBridgeModuleNameForClass(strongModule))", "RCTBridgeModuleNameForClass(Class(strongModule)))")
+  find_and_replace("../../../node_modules/react-native/Libraries/Image/RCTUIImageViewAnimated.m",
+  "_currentFrame.CGImage;","_currentFrame.CGImage ;} else { [super displayLayer:layer];")
+  find_and_replace("../../../node_modules/react-native/ReactCommon/yoga/yoga/Yoga.cpp",
+  "node->getLayout().hadOverflow() |","node->getLayout().hadOverflow()  ||")
+  installer.pods_project.targets.each do |target|
+         # Make it build with XCode 14
+         if target.respond_to?(:product_type) and target.product_type == "com.apple.product-type.bundle"
+           target.build_configurations.each do |config|
+               config.build_settings['CODE_SIGNING_ALLOWED'] = 'NO'
+           end
+         end
+         # Make it work with GoogleDataTransport
+         if target.name.start_with? "GoogleDataTransport"
+           target.build_configurations.each do |config|
+             config.build_settings['CLANG_WARN_STRICT_PROTOTYPES'] = 'NO'
+           end
+         end
+       end
+    
+       installer.pods_project.targets.each do |target|
+         target.build_configurations.each do |config|
+           config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "arm64"
+           config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+         end
+         case target.name
+         when 'RCT-Folly'
+           target.build_configurations.each do |config|
+             config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '9.0'
+           end
+         end
+       end
+    
+       react_native_post_install(installer)
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+    end
+  end
+end
+
+def find_and_replace(dir, findstr, replacestr)
+  Dir[dir].each do |name|
+      text = File.read(name)
+      replace = text.gsub(findstr,replacestr)
+      if text != replace
+          puts "Fix: " + name
+          File.open(name, "w") { |file| file.puts replace }
+          STDOUT.flush
+      end
+  end
+  Dir[dir + '*/'].each(&method(:find_and_replace))
+end

@@ -1,0 +1,351 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`reportproblem User navigates to reportproblem 1`] = `
+<KeyboardAvoidingView
+  enabled={true}
+  keyboardVerticalOffset={0}
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <ForwardRef(SafeAreaView)
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "flexDirection": "row",
+            "height": 72.46376811594203,
+            "paddingHorizontal": 27.17391304347826,
+            "width": "100%",
+          },
+          Object {
+            "borderBottomColor": "#B7BBC0",
+            "borderBottomWidth": 0.5,
+          },
+        ]
+      }
+    >
+      <ForwardRef
+        onPress={[Function]}
+        style={
+          Object {
+            "height": 38.5,
+            "width": 38.5,
+          }
+        }
+        testID="btnGoBack"
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../packages/blocks/global_assets/leftArrow.png",
+            }
+          }
+          style={
+            Object {
+              "height": 45.289855072463766,
+              "resizeMode": "contain",
+              "width": 45.289855072463766,
+            }
+          }
+        />
+      </ForwardRef>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 32.608695652173914,
+              "fontWeight": "bold",
+              "textAlign": "center",
+              "width": 641.304347826087,
+            },
+          ]
+        }
+      >
+        Report a problem
+      </Text>
+    </View>
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffffffff",
+          "flex": 1,
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": 650,
+          "padding": 16,
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#ffffffff",
+            "flex": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": 650,
+            "padding": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#9E9E9E",
+                "fontFamily": "Montserrat-Medium",
+                "fontSize": 27,
+                "textTransform": "uppercase",
+              },
+              false,
+            ]
+          }
+        >
+          Description
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#9E9E9E",
+              "fontFamily": "Montserrat-Regular",
+              "fontSize": 23,
+              "marginVertical": 16,
+              "textAlign": "center",
+              "width": "100%",
+            }
+          }
+        >
+          Write a description and attach pictures of the screens you faced an issue on. Try to be as descriptive as possible
+        </Text>
+        <TextInput
+          allowFontScaling={true}
+          maxLength={200}
+          multiline={true}
+          onChangeText={[Function]}
+          placeholder="Write here..."
+          placeholderTextColor="#B7BBC0"
+          rejectResponderTermination={true}
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#FAFAFA",
+                "borderColor": "#FFFFFF",
+                "borderRadius": 19,
+                "borderWidth": 0.5,
+                "fontFamily": "Montserrat-Regular",
+                "height": "20%",
+                "marginVertical": 16,
+                "paddingLeft": 29,
+                "paddingTop": 29,
+                "textAlignVertical": "top",
+                "width": "100%",
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ]
+          }
+          testID="txtInputDescription"
+          underlineColorAndroid="transparent"
+          value="Your description here."
+        />
+        <View />
+        <View>
+          <FlatList
+            bounces={false}
+            data={Array []}
+            decelerationRate="fast"
+            disableVirtualization={false}
+            horizontal={true}
+            initialNumToRender={10}
+            keyExtractor={[Function]}
+            maxToRenderPerBatch={10}
+            numColumns={1}
+            onEndReachedThreshold={2}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            style={
+              Object {
+                "alignSelf": "flex-start",
+              }
+            }
+            testID="imageFlatlist"
+            updateCellsBatchingPeriod={50}
+            windowSize={21}
+          />
+          <View />
+        </View>
+        <View
+          style={
+            Object {
+              "bottom": 31.5,
+              "left": 16,
+              "position": "absolute",
+              "right": 0,
+              "width": "100%",
+            }
+          }
+        >
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "backgroundColor": "#fff",
+                  "borderColor": "#FFC925",
+                  "borderRadius": 50,
+                  "borderWidth": 1,
+                  "height": 96,
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "marginTop": 16,
+              }
+            }
+            onPress={[Function]}
+            testID="addphphotosBtn"
+            title="Add Photos"
+            titleStyle={
+              Object {
+                "color": "#000",
+                "fontFamily": "Montserrat-SemiBold",
+                "fontSize": 32.608695652173914,
+                "fontWeight": "bold",
+              }
+            }
+          />
+          <mockConstructor
+            buttonStyle={
+              Array [
+                Object {
+                  "backgroundColor": "#FFC925",
+                  "borderRadius": 50,
+                  "height": 96,
+                },
+              ]
+            }
+            containerStyle={
+              Object {
+                "marginTop": 16,
+              }
+            }
+            disabled={true}
+            loading={false}
+            onPress={[Function]}
+            testID="sendReportBtn"
+            title="Send Report"
+            titleStyle={
+              Object {
+                "color": "#000",
+                "fontFamily": "Montserrat-SemiBold",
+                "fontSize": 32.608695652173914,
+                "fontWeight": "bold",
+              }
+            }
+          />
+        </View>
+      </View>
+    </TouchableWithoutFeedback>
+    <View
+      style={Object {}}
+    >
+      <Modal
+        animationType="slide"
+        hardwareAccelerated={false}
+        onRequestClose={[Function]}
+        testID="submitModal"
+        transparent={true}
+        visible={false}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "rgba(0,0,0,0.2)",
+              "flex": 1,
+              "justifyContent": "center",
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "borderColor": "#FFC925",
+                "borderRadius": 20,
+                "borderWidth": 1,
+                "marginHorizontal": "5%",
+                "padding": 30,
+              }
+            }
+          >
+            <View
+              style={Object {}}
+            >
+              <Text
+                style={
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                    "fontSize": 27,
+                  }
+                }
+              >
+                Thanks for submitting your feedback
+              </Text>
+            </View>
+            <View
+              style={Object {}}
+            >
+              <ForwardRef
+                onPress={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "backgroundColor": "#FFC925",
+                    "borderRadius": 96,
+                    "height": 96,
+                    "justifyContent": "center",
+                    "marginTop": 38.5,
+                  }
+                }
+                testID="okBtn"
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "Montserrat-SemiBold",
+                      "fontSize": 32.608695652173914,
+                      "fontWeight": "bold",
+                    }
+                  }
+                >
+                  Ok
+                </Text>
+              </ForwardRef>
+            </View>
+          </View>
+        </View>
+      </Modal>
+    </View>
+  </ForwardRef(SafeAreaView)>
+</KeyboardAvoidingView>
+`;

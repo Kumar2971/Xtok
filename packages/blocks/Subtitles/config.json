@@ -1,0 +1,40 @@
+{
+  "id": "Subtitles",
+  "version": "1.0.0",
+  "status": "preAlpha",
+  "path": "./packages/blocks/Subtitles",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "Subtitles"
+    ],
+    "assembler-dependencies": [
+      "\"@react-navigation/native\": \"^5.0.5\"",
+      "\"socket.io\": \"^4.5.1\"",
+      "\"socket.io-client\": \"^4.5.1\""
+    ],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "Subtitles": {
+        "file": "Subtitles.tsx",
+        "extends": "SubtitlesController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "SubtitlesController",
+            "path": "./SubtitlesController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./SubtitlesController"
+          }
+        ]
+      }
+    }
+  }
+}

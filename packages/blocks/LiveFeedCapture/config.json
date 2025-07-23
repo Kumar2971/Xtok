@@ -1,0 +1,65 @@
+{
+  "id": "LiveFeedCapture",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/LiveFeedCapture",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LiveFeedCapture"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LiveFeedCapture": {
+        "file": "LiveFeedCapture.tsx",
+        "extends": "LiveFeedCaptureController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LiveFeedCaptureController",
+            "path": "./LiveFeedCaptureController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LiveFeedCaptureController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LiveFeedCapture"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LiveFeedCapture": {
+        "file": "LiveFeedCapture.web.tsx",
+        "extends": "LiveFeedCaptureController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LiveFeedCaptureController",
+            "path": "./LiveFeedCaptureController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LiveFeedCaptureController"
+          }
+        ]
+      }
+    }
+  }
+}

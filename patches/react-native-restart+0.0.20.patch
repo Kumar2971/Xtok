@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-restart/ios/Restart.m b/node_modules/react-native-restart/ios/Restart.m
+index c59e32a..a12652b 100644
+--- a/node_modules/react-native-restart/ios/Restart.m
++++ b/node_modules/react-native-restart/ios/Restart.m
+@@ -6,7 +6,7 @@ @implementation Restart
+ 
+ - (void)loadBundle
+ {
+-    RCTTriggerReloadCommandListeners(@"react-native-restart: Restart");
++    RCTTriggerReloadCommandListeners();
+ }
+ 
+ RCT_EXPORT_METHOD(Restart) {

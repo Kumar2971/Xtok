@@ -1,0 +1,701 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`invitefriends User navigates to invitefriends 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 35.688405797101446,
+          "marginTop": 63.4375,
+          "textAlign": "center",
+        }
+      }
+      testID="textInstructions"
+    >
+      Share your code with friends and get an exciting offers
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#366ef9",
+          "fontSize": 42.210144927536234,
+          "marginTop": 94.79374999999999,
+          "textAlign": "center",
+        }
+      }
+      testID="textTitle"
+    >
+      Invite your friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 94.79374999999999,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnEmailIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/global_assets/mail.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgEmailIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnWhatsAppIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/whatsapp.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "marginEnd": 45.289855072463766,
+            "marginStart": 45.289855072463766,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgWhatsAppIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnSMSIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/sms.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgSMSIcon"
+      />
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "height": 379.35625000000005,
+        "marginBottom": 37.51875,
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../packages/blocks/invitefriends/assets/invite_friend.png",
+        }
+      }
+      style={
+        Object {
+          "height": 379.35625000000005,
+          "resizeMode": "contain",
+          "width": "100%",
+        }
+      }
+      testID="imgPosterIcon"
+    />
+  </View>
+</View>
+`;
+
+exports[`invitefriends User navigates to invitefriends 2`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 35.688405797101446,
+          "marginTop": 63.4375,
+          "textAlign": "center",
+        }
+      }
+      testID="textInstructions"
+    >
+      Share your code with friends and get an exciting offers
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#366ef9",
+          "fontSize": 42.210144927536234,
+          "marginTop": 94.79374999999999,
+          "textAlign": "center",
+        }
+      }
+      testID="textTitle"
+    >
+      Invite your friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 94.79374999999999,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnEmailIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/global_assets/mail.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgEmailIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnWhatsAppIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/whatsapp.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "marginEnd": 45.289855072463766,
+            "marginStart": 45.289855072463766,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgWhatsAppIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnSMSIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/sms.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgSMSIcon"
+      />
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "height": 379.35625000000005,
+        "marginBottom": 37.51875,
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../packages/blocks/invitefriends/assets/invite_friend.png",
+        }
+      }
+      style={
+        Object {
+          "height": 379.35625000000005,
+          "resizeMode": "contain",
+          "width": "100%",
+        }
+      }
+      testID="imgPosterIcon"
+    />
+  </View>
+</View>
+`;
+
+exports[`invitefriends User navigates to invitefriends 3`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 35.688405797101446,
+          "marginTop": 63.4375,
+          "textAlign": "center",
+        }
+      }
+      testID="textInstructions"
+    >
+      Share your code with friends and get an exciting offers
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#366ef9",
+          "fontSize": 42.210144927536234,
+          "marginTop": 94.79374999999999,
+          "textAlign": "center",
+        }
+      }
+      testID="textTitle"
+    >
+      Invite your friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 94.79374999999999,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnEmailIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/global_assets/mail.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgEmailIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnWhatsAppIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/whatsapp.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "marginEnd": 45.289855072463766,
+            "marginStart": 45.289855072463766,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgWhatsAppIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnSMSIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/sms.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgSMSIcon"
+      />
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "height": 379.35625000000005,
+        "marginBottom": 37.51875,
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../packages/blocks/invitefriends/assets/invite_friend.png",
+        }
+      }
+      style={
+        Object {
+          "height": 379.35625000000005,
+          "resizeMode": "contain",
+          "width": "100%",
+        }
+      }
+      testID="imgPosterIcon"
+    />
+  </View>
+</View>
+`;
+
+exports[`invitefriends User navigates to invitefriends 4`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 35.688405797101446,
+          "marginTop": 63.4375,
+          "textAlign": "center",
+        }
+      }
+      testID="textInstructions"
+    >
+      Share your code with friends and get an exciting offers
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#366ef9",
+          "fontSize": 42.210144927536234,
+          "marginTop": 94.79374999999999,
+          "textAlign": "center",
+        }
+      }
+      testID="textTitle"
+    >
+      Invite your friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 94.79374999999999,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnEmailIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/global_assets/mail.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgEmailIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnWhatsAppIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/whatsapp.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "marginEnd": 45.289855072463766,
+            "marginStart": 45.289855072463766,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgWhatsAppIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnSMSIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/sms.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgSMSIcon"
+      />
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "height": 379.35625000000005,
+        "marginBottom": 37.51875,
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../packages/blocks/invitefriends/assets/invite_friend.png",
+        }
+      }
+      style={
+        Object {
+          "height": 379.35625000000005,
+          "resizeMode": "contain",
+          "width": "100%",
+        }
+      }
+      testID="imgPosterIcon"
+    />
+  </View>
+</View>
+`;
+
+exports[`invitefriends User navigates to invitefriends 5`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 35.688405797101446,
+          "marginTop": 63.4375,
+          "textAlign": "center",
+        }
+      }
+      testID="textInstructions"
+    >
+      Share your code with friends and get an exciting offers
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#366ef9",
+          "fontSize": 42.210144927536234,
+          "marginTop": 94.79374999999999,
+          "textAlign": "center",
+        }
+      }
+      testID="textTitle"
+    >
+      Invite your friends
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": 94.79374999999999,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnEmailIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/global_assets/mail.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgEmailIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnWhatsAppIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/whatsapp.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "marginEnd": 45.289855072463766,
+            "marginStart": 45.289855072463766,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgWhatsAppIcon"
+      />
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="btnSMSIcon"
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../packages/blocks/invitefriends/assets/sms.png",
+          }
+        }
+        style={
+          Object {
+            "height": 97.28260869565219,
+            "width": 97.28260869565219,
+          }
+        }
+        testID="imgSMSIcon"
+      />
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "height": 379.35625000000005,
+        "marginBottom": 37.51875,
+        "position": "absolute",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../packages/blocks/invitefriends/assets/invite_friend.png",
+        }
+      }
+      style={
+        Object {
+          "height": 379.35625000000005,
+          "resizeMode": "contain",
+          "width": "100%",
+        }
+      }
+      testID="imgPosterIcon"
+    />
+  </View>
+</View>
+`;

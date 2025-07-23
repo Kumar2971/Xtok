@@ -1,0 +1,65 @@
+{
+  "id": "VoiceMemos",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/VoiceMemos",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VoiceMemos"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VoiceMemos": {
+        "file": "VoiceMemos.tsx",
+        "extends": "VoiceMemosController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VoiceMemosController",
+            "path": "./VoiceMemosController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VoiceMemosController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VoiceMemos"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VoiceMemos": {
+        "file": "VoiceMemos.web.tsx",
+        "extends": "VoiceMemosController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VoiceMemosController",
+            "path": "./VoiceMemosController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VoiceMemosController"
+          }
+        ]
+      }
+    }
+  }
+}

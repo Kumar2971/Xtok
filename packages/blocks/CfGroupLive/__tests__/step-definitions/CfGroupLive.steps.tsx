@@ -1,0 +1,54 @@
+import { ShallowWrapper, shallow } from 'enzyme'
+import { defineFeature, loadFeature } from "jest-cucumber"
+
+import * as helpers from '../../../../framework/src/Helpers'
+import React from "react";
+import CfGroupLive from "../../src/CfGroupLive"
+const navigation = require("react-navigation")
+
+const screenProps = {
+    navigation: navigation,
+    id: "CfGroupLive"
+  }
+
+const feature = loadFeature('./__tests__/features/CfGroupLive-scenario.feature');
+
+defineFeature(feature, (test) => {
+
+
+    beforeEach(() => {
+        jest.resetModules();
+        jest.doMock('react-native', () => ({ Platform: { OS: 'web' }}));
+        jest.spyOn(helpers, 'getOS').mockImplementation(() => 'web');
+    });
+
+    test('User navigates to CfGroupLive', ({ given, when, then }) => {
+        let exampleBlockA:ShallowWrapper;
+        let instance:CfGroupLive; 
+
+        given('I am a User loading CfGroupLive', () => {
+            exampleBlockA = shallow(<CfGroupLive {...screenProps}/>);
+        });
+
+        when('I navigate to the CfGroupLive', () => {
+             instance = exampleBlockA.instance() as CfGroupLive
+        });
+
+        then('CfGroupLive will load with out errors', () => {
+            expect(exampleBlockA).toBeTruthy();
+        });
+
+        then('I can enter text with out errors', () => {
+        });
+
+        then('I can select the button with with out errors', () => {
+        });
+
+        then('I can leave the screen with out errors', () => {
+            instance.componentWillUnmount()
+            expect(exampleBlockA).toBeTruthy();
+        });
+    });
+
+
+});

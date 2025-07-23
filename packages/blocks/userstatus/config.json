@@ -1,0 +1,65 @@
+{
+  "id": "UserStatus",
+  "version": "0.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/UserStatus",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "UserStatus"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "UserStatus": {
+        "file": "UserStatus.tsx",
+        "extends": "UserStatusController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "UserStatusController",
+            "path": "./UserStatusController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./UserStatusController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "UserStatus"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "UserStatusBlock": {
+        "file": "UserStatusBlock.web.tsx",
+        "extends": "UserStatusController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "UserStatusController",
+            "path": "./UserStatusController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./UserStatusController"
+          }
+        ]
+      }
+    }
+  }
+}

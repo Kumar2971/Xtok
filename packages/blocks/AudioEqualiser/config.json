@@ -1,0 +1,65 @@
+{
+  "id": "AudioEqualiser",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AudioEqualiser",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AudioEqualiser"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AudioEqualiser": {
+        "file": "AudioEqualiser.tsx",
+        "extends": "AudioEqualiserController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AudioEqualiserController",
+            "path": "./AudioEqualiserController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AudioEqualiserController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AudioEqualiser"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AudioEqualiser": {
+        "file": "AudioEqualiser.web.tsx",
+        "extends": "AudioEqualiserController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AudioEqualiserController",
+            "path": "./AudioEqualiserController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AudioEqualiserController"
+          }
+        ]
+      }
+    }
+  }
+}

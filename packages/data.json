@@ -1,0 +1,125 @@
+{
+   "app_name":"LikeTikTokApp",
+   "short_description":"This is the short description",
+   "description":"Here we have the full description",
+   "app_icon":"image url Minio",
+   "common_feature_banner":"image url Minio",
+   "android_app_categorization":{
+      "product_details":{
+         "title":"LikeTikTokApp",
+         "promotional_text":"This is the short description",
+         "full_description":"Here we have the full description"
+      },
+      "graphic_assets":{
+         "app_icon":"icon url"
+      },
+      "categorization_of_app":{
+         "category":"ENTERTAINMENT"
+      },
+      "keywords":[
+         "t",
+         "test"
+      ],
+      "contact_details":{
+         "website":"www.google.com",
+         "email":"test@yopmail.com",
+         "phone":"+441234567890",
+         "first_name":"test",
+         "last_name":"test",
+         "address":"some address",
+         "city":"Ghaziabad",
+         "state":"UP",
+         "postal_code":"201005",
+         "country":"uae"
+      },
+      "page_urls":{
+         "privacy_policy_url":"https://www.google.com",
+         "support_url":"https://www.google.com",
+         "marketing_url":"https://www.google.com"
+      },
+      "price_and_distribution":{
+         "copyright":"Copyright 2021",
+         "paid":"true",
+         "countries":"all",
+         "app_review_information":{
+            "username":"test",
+            "password":"test",
+            "notes":"test"
+         }
+      }
+   },
+   "ios_app_categorization":{
+      "product_details":{
+         "title":"LikeTikTokApp",
+         "short_description":"short description",
+         "full_description":"full description"
+      },
+      "graphic_assets":{
+         "app_icon":"icon url",
+         "feature_graphic":"some url"
+      },
+      "categorization_of_app":{
+         "application_type":"Builder Pro",
+         "category":"ENTERTAINMENT"
+      },
+      "contact_details":{
+         "website":"www.google.com",
+         "email":"test@yopmail.com",
+         "phone":"+441234567890"
+      },
+      "tnc_and_privacy_policy":{
+         "privacy_policy_url":"https://www.google.com",
+         "terms_and_conditions_url":"https://www.google.com"
+      },
+      "price_and_distribution":{
+         "paid":"true",
+         "default_price":"100",
+         "auto_price_conversion":"yes",
+         "distribute_in_this_coutry":"uae",
+         "android_wear":"Not applicable",
+         "google_play_for_education":"No",
+         "content_guidlines":"Check this box for the app to meet Android Content Guidelines.",
+         "us_export_laws":"No",
+         "target_audience_and_content":"18 and above",
+         "tags":[
+            "tags1",
+            "tags2"
+         ]
+      }
+   },
+   "keywords":[
+      "one",
+      "two"
+   ],
+   "contact_details":{
+      "website":"www.google.com",
+      "email":"test@yopmail.com",
+      "phone":"+441234567890",
+      "first_name":"test",
+      "last_name":"test",
+      "address":{
+         "city":"test",
+         "state":"test",
+         "postal_code":"456010",
+         "country":"uae"
+      }
+   },
+   "page_urls":{
+      "privacy_policy_url":"https://www.google.com",
+      "support_url":"https://www.google.com",
+      "marketing_url":"https://www.google.com",
+      "terms_and_conditions_url":"https://www.google.com"
+   },
+   "target_audience_and_content":"18 and over",
+   "pricing_and_distribution":{
+      "is_paid":"true",
+      "default_price":"100",
+      "distributed_countries":"all",
+      "auto_price_conversion":"true",
+      "android_wear":"Value to be set as Not Applicable",
+      "google_play_for_education":"true",
+      "content_guidlines":"true",
+      "us_export_laws":"true",
+      "copyright":"Copyright 2021"
+   }
+}

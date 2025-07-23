@@ -1,0 +1,14 @@
+export const plus = require("./Assets/plus.png");
+export const closed = require("./Assets/closed.png");
+export const homeselected = require("./Assets/Homebutton-1.png");
+export const homeunselected = require("./Assets/Homebutton.png");
+export const inbox = require("./Assets/Inboxbutton-1.png");
+export const inboxunselect = require("./Assets/Inboxbutton.png");
+export const profile = require("./Assets/Profilebutton-1.png");
+export const profileunselected = require("./Assets/Profilebutton.png");
+export const live = require("./Assets/Discoverbutton1.png");
+export const liveunselected = require("./Assets/Discoverbutton.png");
+export const fire = require("./Assets/fire-fill.png");
+export const redheart = require("./Assets/likeicon.png");
+export const disable = require("./Assets/disable.png");
+export const rightarrow = require("./Assets/right-arrow.png");

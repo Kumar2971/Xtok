@@ -1,0 +1,46 @@
+{
+  "bds": {
+    "name": "invitefriends",
+    "id": "invitefriends",
+    "platform": [
+      "desktop",
+      "mobile"
+    ],
+    "author": "CMT",
+    "summary": null,
+    "license": "BSD",
+    "version": "1.0.0",
+    "pages": [
+      {
+        "invitefriends": {
+          "hotspots": [
+            {
+              "type": "input",
+              "id": "btnEmailIcon",
+              "options": [
+                "mandatory",
+                "enabled"
+              ]
+            },
+            {
+              "type": "input",
+              "id": "btnWhatsAppIcon",
+              "options": [
+                "mandatory",
+                "enabled"
+              ]
+            },
+            {
+              "type": "input",
+              "id": "btnSMSIcon",
+              "options": [
+                "mandatory",
+                "enabled"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

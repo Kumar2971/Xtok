@@ -1,0 +1,10 @@
+export const imgPasswordVisible = require("../../global_assets/ic_password_visible.png");
+export const imgPasswordInVisible = require("../../global_assets/ic_password_invisible.png");
+export const imgArrow = require('../../global_assets/Arrow-Left.png');
+export const imgLock = require('../../global_assets/Lock.png');
+export const imgHide = require('../../global_assets/Hide.png');
+export const imgsms = require('../../global_assets/smsyellow.png');
+export const imgMsg = require('../../global_assets/messageyellow.png');
+export const imgBorderCircle = require('../../global_assets/yellowbordercircle.png');
+export const imgcheckedCircle = require('../../global_assets/checkedcircle.png');
+export const RightArrowfull = require("../../global_assets/RightArrowfull.png");

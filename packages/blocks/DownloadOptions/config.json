@@ -1,0 +1,65 @@
+{
+  "id": "DownloadOptions",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/DownloadOptions",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "DownloadOptions"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "DownloadOptions": {
+        "file": "DownloadOptions.tsx",
+        "extends": "DownloadOptionsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "DownloadOptionsController",
+            "path": "./DownloadOptionsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./DownloadOptionsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "DownloadOptions"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "DownloadOptions": {
+        "file": "DownloadOptions.web.tsx",
+        "extends": "DownloadOptionsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "DownloadOptionsController",
+            "path": "./DownloadOptionsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./DownloadOptionsController"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828253008806",
+    "project_id": "xtok-a3c51",
+    "storage_bucket": "xtok-a3c51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828253008806:android:10b41b291e985955595567",
+        "android_client_info": {
+          "package_name": "com.app.goshorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828253008806-a6okerrc5ddp2b38fflu98smv6pvg5b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7rZzDcpdZTrYvo-GN9Su4sFWrUnTg-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828253008806-a6okerrc5ddp2b38fflu98smv6pvg5b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828253008806-5p2c4ge6eggre666g006cec08r2jjkk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.Xtok",
+                "app_store_id": "6740705077"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

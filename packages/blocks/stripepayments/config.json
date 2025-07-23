@@ -1,0 +1,51 @@
+{
+  "id": "StripeIntegration",
+  "version": "1.0.0",
+  "status": "release",
+  "path": "./packages/blocks/StripeIntegration",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "StripeIntegration"
+    ],
+    "assembler-dependencies": [
+      "\"react-native-mask-input\": \"^1.2.2\"",
+      "\"cleave.js\": \"^1.6.0\""
+    ],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [
+      "\"@testing-library/dom\": \"8.18.1\"",
+      "\"@testing-library/jest-dom\": \"5.16.5\"",
+      "\"@testing-library/react\": \"13.4.0\"",
+      "\"@testing-library/react-native\": \"11.2.0\"",
+      "\"@testing-library/jest-native\": \"^4.0.12\""
+    ],
+    "merge-engine-screens": {}
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "StripeIntegration"
+    ],
+    "assembler-dependencies": [
+      "\"cleave.js\": \"^1.6.0\"",
+      "\"react-native-mask-input\": \"^1.2.2\""
+    ],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [
+      "\"@testing-library/dom\": \"8.18.1\"",
+      "\"@testing-library/jest-dom\": \"5.16.5\"",
+      "\"@testing-library/react\": \"13.4.0\"",
+      "\"@testing-library/react-native\": \"11.2.0\"",
+      "\"@testing-library/jest-native\": \"^4.0.12\""
+    ],
+    "merge-engine-screens": {}
+  }
+}

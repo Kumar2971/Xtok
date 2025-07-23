@@ -1,0 +1,2 @@
+yarn react-native bundle --platform android --dev false --entry-file packages/mobile/index.js --bundle-output packages/mobile/android/app/src/main/assets/index.android.bundle
+cd packages/mobile/android && ./gradlew clean && ./gradlew app:assembleRelease

@@ -1,0 +1,285 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "ac310d4271fb1ed5012f6d512b0e7e061bcefdd2"
+    },
+    {
+      "path": "assets/fonts/Brusher.ttf",
+      "sha1": "045ab6cbaafe6030cec695d968f791cd5952c7ae"
+    },
+    {
+      "path": "assets/fonts/Helvetica-Bold.ttf",
+      "sha1": "d064906892c6baf2916d5102910026ba0a4f2664"
+    },
+    {
+      "path": "assets/fonts/Helvetica-Regular.ttf",
+      "sha1": "53cb59bdb997dd39dc70b95d50133583e66ebdcb"
+    },
+    {
+      "path": "assets/fonts/Lato-Black.ttf",
+      "sha1": "b9c952639741f5b7479e1ff6d1561a3df7e8f83a"
+    },
+    {
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "f59f9e4f3cbee981a5e6f58a279f9b9613f22599"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Black.ttf",
+      "sha1": "fca130f21601346cce37bb8a9526ff01af66d912"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "50ca0660179c28c31ef1debc55506a1eab366446"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "ed5e533b6571e33adb6d01298cb8d1a5a2466657"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "1914bc1981e6ceceadb2f6d72455b4e89e04965c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "49758a0ea59fe7f82c639a385a2bacf3d4de3398"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "7c594b126941460bd2f3b47097fd6222f52277e7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "fbbb972b616c3b84d99976ddf84b6fecdeb4c7ca"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic-VariableFont_wght.ttf",
+      "sha1": "df1a17b6a12a7518575abe3f5cdc1d6cb0c7b390"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "4ee8f07c7414009645d03d87cd72df15658fe9f4"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "8e980f76a35675acd586f829dd2ae8d002dd97d6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "8b2c464e42f07fc307fddb9c58d202ecff19be2a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "51626902f9f2b0aa24b235bb68b2640622f156b9"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "8c871991960f520a31635f95be6c346b659e2c8c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "f7d887fc6b50157081fd60082d20339c433f9955"
+    },
+    {
+      "path": "assets/fonts/Montserrat-VariableFont_wght.ttf",
+      "sha1": "b30f63a27bcdc61c2458d0ddfbbe738a01e39714"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "05be88ec92c1a8edab8a17ea1aa988d13154c994"
+    },
+    {
+      "path": "assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "c4ae2c23829f83d18803663ceefe74cb47af6935"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "6ed04065d66cbabcb49cd02e342f6459d6b2580e"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "497ae77063d462e927e238844659b08feaf31ac3"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "20c587a55713abe55f036299b397470a7eaefbbf"
+    },
+    {
+      "path": "assets/fonts/Poppins-Italic.ttf",
+      "sha1": "785e2a61204720cfedf09b56891b295d576640b7"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "ecceeecdfea053e23ee31bf56806fc39f9d32e7d"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "5c96d1545a51c39e05ee0fcc0c3c9021f14d9c31"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "440dc8992517a306d66e55cb0afed0cfe9b971b5"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "0dbbb6d5a8fa0f9ece415dda4a69c8aa6595fba5"
+    },
+    {
+      "path": "assets/fonts/README.txt",
+      "sha1": "1f00617f4836deba8f0123093561db3967ba4e1a"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "2918d17d12debe9499d85d3444831258b2fddfbf"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "00a00578822cb025d90f61c80a44fd3360d50f9b"
+    },
+    {
+      "path": "assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "beb0dd1a6dc2132fd8d9b4fb35a96087bb2ea5bc"
+    },
+    {
+      "path": "assets/fonts/knewave.ttf",
+      "sha1": "d04e97f125b9afaebde36adf43c6eedf8491f8ee"
+    },
+    {
+      "path": "assets/effects/aviators",
+      "sha1": "d70a97558cc4d9a4df47df096772417e5aad2c18"
+    },
+    {
+      "path": "assets/effects/background_segmentation",
+      "sha1": "219918b714a93fd4a1157d55969e256032c9441a"
+    },
+    {
+      "path": "assets/effects/ball_face",
+      "sha1": "574865775ca23b536ea86999061b573453d579d7"
+    },
+    {
+      "path": "assets/effects/beard",
+      "sha1": "c305727fbb978926a5e468f6b0e7765b1451f7ce"
+    },
+    {
+      "path": "assets/effects/beauty",
+      "sha1": "9d7e8e0bfc5c9917f138e21a619dea181ae145ce"
+    },
+    {
+      "path": "assets/effects/burning_effect",
+      "sha1": "5891abde7778699f4de0bfadf85b96a49ff24826"
+    },
+    {
+      "path": "assets/effects/emotion_meter",
+      "sha1": "395a8f5443e03c477a706eff3bb0c09e150b6dc5"
+    },
+    {
+      "path": "assets/effects/emotions_exaggerator",
+      "sha1": "4a4a8fb8f163c6fd7b9f6a50c519e91fddb81570"
+    },
+    {
+      "path": "assets/effects/face_painting",
+      "sha1": "9d9a940b386ea513349c5cf512bc356938ae4e42"
+    },
+    {
+      "path": "assets/effects/fairy_lights",
+      "sha1": "65bd412586003aee641395e98ed2ef1730509051"
+    },
+    {
+      "path": "assets/effects/fire_effect",
+      "sha1": "29b48e40730acd702e526fc80943de7b6fc31d4a"
+    },
+    {
+      "path": "assets/effects/flower_crown",
+      "sha1": "f9f72c8d60189c5b60f8bd349415beb146e4d75e"
+    },
+    {
+      "path": "assets/effects/frankenstein",
+      "sha1": "73d4a8fa2f1f164c34d5621ec57c2eb230455444"
+    },
+    {
+      "path": "assets/effects/hair_segmentation",
+      "sha1": "35b479e41ea4c1ca6d247de544d5595c33183032"
+    },
+    {
+      "path": "assets/effects/humanoid",
+      "sha1": "d55892fe97d2adc83768a83fef4ca2979cd8966f"
+    },
+    {
+      "path": "assets/effects/lion",
+      "sha1": "9d70db33a0b97236d1412cf41e1145f563ecaed4"
+    },
+    {
+      "path": "assets/effects/look1",
+      "sha1": "9520c68d008be5756f253df962a6b440f568af31"
+    },
+    {
+      "path": "assets/effects/look2",
+      "sha1": "c1dda1d553246c57fb73bb24d80664598437dffb"
+    },
+    {
+      "path": "assets/effects/manly_face",
+      "sha1": "eed8845684abbcc0140619e19ab5a1d37b577862"
+    },
+    {
+      "path": "assets/effects/ping_pong",
+      "sha1": "116b85b69cd831a8946e957ef8c8657eccf3af6b"
+    },
+    {
+      "path": "assets/effects/plastic_ocean",
+      "sha1": "654d4ce7bb052421407ba114faf3423f8170d969"
+    },
+    {
+      "path": "assets/effects/pumpkin",
+      "sha1": "e18ede43f66f362b8522cfc2bbc2d3a7dac05daa"
+    },
+    {
+      "path": "assets/effects/scuba",
+      "sha1": "00178c665bf71de0a150435ffe885d993721970a"
+    },
+    {
+      "path": "assets/effects/stallone",
+      "sha1": "e28b9a49242d968d5e194f7fecfa8e83c8b2882a"
+    },
+    {
+      "path": "assets/effects/tape_face",
+      "sha1": "773fc3c1b2e190f65744de4496fce238ece8a6d5"
+    },
+    {
+      "path": "assets/effects/tiny_sunglasses",
+      "sha1": "c31c015ae49852faff3a99b2f8e00031198e9bfd"
+    },
+    {
+      "path": "assets/effects/topology",
+      "sha1": "e5cbab1f3916e1546aba65d7f05e55b1e8d4d8cc"
+    },
+    {
+      "path": "assets/effects/vendetta_mask",
+      "sha1": "d7c46e58d09a542699be5a55e8f3d92195bc54e1"
+    },
+    {
+      "path": "assets/effects/viking_helmet",
+      "sha1": "4fe4d10e9dcf910d87e2eb96135762c18c6d3bcd"
+    }
+  ]
+}

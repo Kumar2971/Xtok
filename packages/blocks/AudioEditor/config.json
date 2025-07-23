@@ -1,0 +1,65 @@
+{
+  "id": "AudioEditor",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AudioEditor",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AudioEditor"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AudioEditor": {
+        "file": "AudioEditor.tsx",
+        "extends": "AudioEditorController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AudioEditorController",
+            "path": "./AudioEditorController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AudioEditorController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AudioEditor"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AudioEditor": {
+        "file": "AudioEditor.web.tsx",
+        "extends": "AudioEditorController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AudioEditorController",
+            "path": "./AudioEditorController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AudioEditorController"
+          }
+        ]
+      }
+    }
+  }
+}

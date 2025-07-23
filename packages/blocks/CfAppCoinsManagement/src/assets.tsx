@@ -1,0 +1,17 @@
+export const imgPasswordVisible = require("../../global_assets/ic_password_visible.png");
+export const imgPasswordInVisible = require("../../global_assets/ic_password_invisible.png");
+export const backArrow = require("../assets/backArrow.png");
+export const coin = require("../assets/coin.png");
+export const TikTokCoinIcon = require("../assets/TikTokCoinIcon.png")
+export const StarCoins = require("../assets/starCoins.png")
+export const AddBank = require("../assets/add.png")
+export const BankIcon = require("../assets/bank.png")
+export const Star = require("../assets/Star.png")
+export const LeftArrowIcon = require("../assets/LeftArrowIcon.png")
+export const BestChoice = require("../assets/bestChoice.png")
+export const success = require("../assets/coinsuccess.png")
+export const fail = require("../assets/coinfail.png")
+export const imgArrow = require("../../global_assets/Arrow-Left.png");
+export const imgLeftArrow = require("../../global_assets/leftArrow.png");
+export const imgRightArrow = require("../../global_assets/rightArrow.png");
+export const DollarCoin = require("../assets/dollarCoin.png")

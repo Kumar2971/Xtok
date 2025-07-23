@@ -1,0 +1,65 @@
+{
+  "id": "CfGroupLive",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/CfGroupLive",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfGroupLive"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfGroupLive": {
+        "file": "CfGroupLive.tsx",
+        "extends": "CfGroupLiveController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfGroupLiveController",
+            "path": "./CfGroupLiveController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfGroupLiveController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfGroupLive"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfGroupLive": {
+        "file": "CfGroupLive.web.tsx",
+        "extends": "CfGroupLiveController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfGroupLiveController",
+            "path": "./CfGroupLiveController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfGroupLiveController"
+          }
+        ]
+      }
+    }
+  }
+}

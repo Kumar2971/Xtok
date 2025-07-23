@@ -1,0 +1,65 @@
+{
+  "id": "PaymentAdmin",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/PaymentAdmin",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PaymentAdmin"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PaymentAdmin": {
+        "file": "PaymentAdmin.tsx",
+        "extends": "PaymentAdminController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PaymentAdminController",
+            "path": "./PaymentAdminController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PaymentAdminController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PaymentAdmin"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PaymentAdmin": {
+        "file": "PaymentAdmin.web.tsx",
+        "extends": "PaymentAdminController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PaymentAdminController",
+            "path": "./PaymentAdminController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PaymentAdminController"
+          }
+        ]
+      }
+    }
+  }
+}

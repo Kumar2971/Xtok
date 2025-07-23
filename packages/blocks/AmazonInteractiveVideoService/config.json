@@ -1,0 +1,89 @@
+{
+  "id": "AmazonInteractiveVideoService",
+  "version": "1.0.1",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AmazonInteractiveVideoService",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AmazonInteractiveVideoService"
+    ],
+    "assembler-dependencies": [
+      "\"react-native-chart-kit\": \"^6.11.0\"",
+      "\"amazon-ivs-chat-messaging\": \"^1.1.1\"",
+      "\"lottie-react-native\": \"3.4.0\"",
+      "\"react-native-keyboard-aware-scroll-view\": \"^0.9.5\""
+    ],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AmazonInteractiveVideoService": {
+        "file": "AmazonInteractiveVideoService.tsx",
+        "extends": "AmazonInteractiveVideoServiceController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "AmazonInteractiveVideoServiceController",
+            "path": "./AmazonInteractiveVideoServiceController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AmazonInteractiveVideoServiceController"
+          }
+        ]
+      },
+      "NotificationAmazonIvs": {
+        "file": "NotificationAmazonIvs.tsx",
+        "extends": "NotificationAmazonIvsController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "NotificationAmazonIvsController",
+            "path": "./NotificationAmazonIvsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./NotificationAmazonIvsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AmazonInteractiveVideoService"
+    ],
+    "assembler-dependencies": [
+      "\"react-native-chart-kit\": \"^6.11.0\"",
+      "\"react-google-charts\": \"2.0.29\""
+    ],
+    "catalog-dependencies": [
+      "core"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AmazonInteractiveVideoService": {
+        "file": "AmazonInteractiveVideoService.web.tsx",
+        "extends": "AmazonInteractiveVideoServiceController",
+        "configURL": "",
+        "validationRulesURL": "",
+        "imports": [
+          {
+            "value": "AmazonInteractiveVideoServiceController",
+            "path": "./AmazonInteractiveVideoServiceController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AmazonInteractiveVideoServiceController"
+          }
+        ]
+      }
+    }
+  }
+}

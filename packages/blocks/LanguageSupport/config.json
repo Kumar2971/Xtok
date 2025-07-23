@@ -1,0 +1,65 @@
+{
+  "id": "LanguageSupport",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/LanguageSupport",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LanguageSupport"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LanguageSupport": {
+        "file": "LanguageSupport.tsx",
+        "extends": "LanguageSupportController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LanguageSupportController",
+            "path": "./LanguageSupportController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LanguageSupportController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LanguageSupport"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LanguageSupport": {
+        "file": "LanguageSupport.web.tsx",
+        "extends": "LanguageSupportController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LanguageSupportController",
+            "path": "./LanguageSupportController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LanguageSupportController"
+          }
+        ]
+      }
+    }
+  }
+}

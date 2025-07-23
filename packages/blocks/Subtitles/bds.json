@@ -1,0 +1,13 @@
+{
+  "id": "Subtitles",
+  "label": "Subtitles",
+  "author": "CMT",
+  "license": "BSD",
+  "summary": "",
+  "version": "2.0.0",
+  "platform": [
+    "mobile"
+  ],
+  "mobile": [],
+  "web": []
+}

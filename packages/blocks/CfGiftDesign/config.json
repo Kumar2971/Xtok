@@ -1,0 +1,65 @@
+{
+  "id": "CfGiftDesign",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/CfGiftDesign",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfGiftDesign"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfGiftDesign": {
+        "file": "CfGiftDesign.tsx",
+        "extends": "CfGiftDesignController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfGiftDesignController",
+            "path": "./CfGiftDesignController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfGiftDesignController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfGiftDesign"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfGiftDesign": {
+        "file": "CfGiftDesign.web.tsx",
+        "extends": "CfGiftDesignController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfGiftDesignController",
+            "path": "./CfGiftDesignController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfGiftDesignController"
+          }
+        ]
+      }
+    }
+  }
+}

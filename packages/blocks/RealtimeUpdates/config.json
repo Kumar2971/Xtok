@@ -1,0 +1,65 @@
+{
+  "id": "RealtimeUpdates",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/RealtimeUpdates",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "RealtimeUpdates"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "RealtimeUpdates": {
+        "file": "RealtimeUpdates.tsx",
+        "extends": "RealtimeUpdatesController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "RealtimeUpdatesController",
+            "path": "./RealtimeUpdatesController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./RealtimeUpdatesController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "RealtimeUpdates"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "RealtimeUpdates": {
+        "file": "RealtimeUpdates.web.tsx",
+        "extends": "RealtimeUpdatesController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "RealtimeUpdatesController",
+            "path": "./RealtimeUpdatesController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./RealtimeUpdatesController"
+          }
+        ]
+      }
+    }
+  }
+}

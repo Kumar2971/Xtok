@@ -1,0 +1,65 @@
+{
+  "id": "LiveFeedScheduling",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/LiveFeedScheduling",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LiveFeedScheduling"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LiveFeedScheduling": {
+        "file": "LiveFeedScheduling.tsx",
+        "extends": "LiveFeedSchedulingController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LiveFeedSchedulingController",
+            "path": "./LiveFeedSchedulingController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LiveFeedSchedulingController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "LiveFeedScheduling"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "LiveFeedScheduling": {
+        "file": "LiveFeedScheduling.web.tsx",
+        "extends": "LiveFeedSchedulingController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "LiveFeedSchedulingController",
+            "path": "./LiveFeedSchedulingController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./LiveFeedSchedulingController"
+          }
+        ]
+      }
+    }
+  }
+}

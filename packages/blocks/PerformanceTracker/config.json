@@ -1,0 +1,65 @@
+{
+  "id": "PerformanceTracker",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/PerformanceTracker",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PerformanceTracker"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PerformanceTracker": {
+        "file": "PerformanceTracker.tsx",
+        "extends": "PerformanceTrackerController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PerformanceTrackerController",
+            "path": "./PerformanceTrackerController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PerformanceTrackerController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "PerformanceTracker"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "PerformanceTracker": {
+        "file": "PerformanceTracker.web.tsx",
+        "extends": "PerformanceTrackerController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "PerformanceTrackerController",
+            "path": "./PerformanceTrackerController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./PerformanceTrackerController"
+          }
+        ]
+      }
+    }
+  }
+}

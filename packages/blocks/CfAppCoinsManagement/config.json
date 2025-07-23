@@ -1,0 +1,65 @@
+{
+  "id": "CfAppCoinsManagement",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/CfAppCoinsManagement",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfAppCoinsManagement"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfAppCoinsManagement": {
+        "file": "CfAppCoinsManagement.tsx",
+        "extends": "CfAppCoinsManagementController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfAppCoinsManagementController",
+            "path": "./CfAppCoinsManagementController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfAppCoinsManagementController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfAppCoinsManagement"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfAppCoinsManagement": {
+        "file": "CfAppCoinsManagement.web.tsx",
+        "extends": "CfAppCoinsManagementController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfAppCoinsManagementController",
+            "path": "./CfAppCoinsManagementController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfAppCoinsManagementController"
+          }
+        ]
+      }
+    }
+  }
+}

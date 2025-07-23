@@ -1,0 +1,65 @@
+{
+  "id": "ContentFlag",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/ContentFlag",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "ContentFlag"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "ContentFlag": {
+        "file": "ContentFlag.tsx",
+        "extends": "ContentFlagController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "ContentFlagController",
+            "path": "./ContentFlagController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./ContentFlagController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "ContentFlag"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "ContentFlag": {
+        "file": "ContentFlag.web.tsx",
+        "extends": "ContentFlagController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "ContentFlagController",
+            "path": "./ContentFlagController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./ContentFlagController"
+          }
+        ]
+      }
+    }
+  }
+}

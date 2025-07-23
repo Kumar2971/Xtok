@@ -1,0 +1,65 @@
+{
+  "id": "CfFaceEffectsIntegration",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/CfFaceEffectsIntegration",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfFaceEffectsIntegration"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfFaceEffectsIntegration": {
+        "file": "CfFaceEffectsIntegration.tsx",
+        "extends": "CfFaceEffectsIntegrationController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfFaceEffectsIntegrationController",
+            "path": "./CfFaceEffectsIntegrationController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfFaceEffectsIntegrationController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "CfFaceEffectsIntegration"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "CfFaceEffectsIntegration": {
+        "file": "CfFaceEffectsIntegration.web.tsx",
+        "extends": "CfFaceEffectsIntegrationController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "CfFaceEffectsIntegrationController",
+            "path": "./CfFaceEffectsIntegrationController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./CfFaceEffectsIntegrationController"
+          }
+        ]
+      }
+    }
+  }
+}

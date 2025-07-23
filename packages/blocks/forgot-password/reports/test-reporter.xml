@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/data/home/ubuntu/Desktop/liketiktokapp-255799-react-native/src/packages/blocks/forgot-password/__tests__/step-definitions/ForgotPasswordOTP.steps.tsx">
+        <testCase name="ForgotPasswordOTP User navigates to ForgotPasswordOTP" duration="1517"/>
+    </file>
+    <file path="/data/home/ubuntu/Desktop/liketiktokapp-255799-react-native/src/packages/blocks/forgot-password/__tests__/step-definitions/NewPassword.steps.tsx">
+        <testCase name="NewPassword User navigates to NewPassword" duration="1215"/>
+    </file>
+    <file path="/data/home/ubuntu/Desktop/liketiktokapp-255799-react-native/src/packages/blocks/forgot-password/__tests__/step-definitions/ForgotPassword.steps.tsx">
+        <testCase name="ForgotPassword User navigates to ForgotPassword" duration="1473"/>
+    </file>
+</testExecutions>

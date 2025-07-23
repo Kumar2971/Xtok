@@ -1,0 +1,65 @@
+{
+  "id": "VideoManagement",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/VideoManagement",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoManagement"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoManagement": {
+        "file": "VideoManagement.tsx",
+        "extends": "VideoManagementController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoManagementController",
+            "path": "./VideoManagementController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoManagementController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "VideoManagement"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "VideoManagement": {
+        "file": "VideoManagement.web.tsx",
+        "extends": "VideoManagementController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "VideoManagementController",
+            "path": "./VideoManagementController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./VideoManagementController"
+          }
+        ]
+      }
+    }
+  }
+}

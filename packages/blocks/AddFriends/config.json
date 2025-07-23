@@ -1,0 +1,65 @@
+{
+  "id": "AddFriends",
+  "version": "0.0.2",
+  "status": "preAlpha",
+  "path": "./packages/blocks/AddFriends",
+  "assembler-adapters": [],
+  "mobile": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AddFriends"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AddFriends": {
+        "file": "AddFriends.tsx",
+        "extends": "AddFriendsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AddFriendsController",
+            "path": "./AddFriendsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AddFriendsController"
+          }
+        ]
+      }
+    }
+  },
+  "web": {
+    "merge-engine-navigation": {},
+    "assembler-exports": [
+      "AddFriends"
+    ],
+    "assembler-dependencies": [],
+    "catalog-dependencies": [
+      "core",
+      "utilities"
+    ],
+    "assembler-devDependencies": [],
+    "merge-engine-screens": {
+      "AddFriends": {
+        "file": "AddFriends.web.tsx",
+        "extends": "AddFriendsController",
+        "ui-elements": [],
+        "imports": [
+          {
+            "value": "AddFriendsController",
+            "path": "./AddFriendsController"
+          },
+          {
+            "value": "{Props}",
+            "path": "./AddFriendsController"
+          }
+        ]
+      }
+    }
+  }
+}
